@@ -12,7 +12,7 @@ Download Quiz Solver AI Simply from GitHub, and add the extension to your browse
 
 ### Step 1: Download the Extension
 
-Download the extension from the [GitHub repository](https://github.com/your-repo/extension-quiz-solver).
+Download the extension from the [GitHub repository](https://github.com/QuizSolverAI/extension-quiz-solver).
 
 ![Download](assets/img/download.png)
 
@@ -28,7 +28,7 @@ Download the extension from the [GitHub repository](https://github.com/your-repo
 1. Find the Quiz Solver AI extension in the list of installed extensions.
 2. Click the toggle to enable it.
 
-![Enable Extension](assets/img/enable_extension.png)
+![Enable Extension](https://quizsolverai.com/images/step_2.png)
 
 ### Step 4: Start Using the Extension
 
@@ -36,7 +36,7 @@ Download the extension from the [GitHub repository](https://github.com/your-repo
 2. Click on the Quiz Solver AI icon in the toolbar.
 3. Follow the on-screen instructions to solve the quiz.
 
-![Use Extension](assets/img/use_extension.png)
+![Use Extension](https://quizsolverai.com/images/headanimation.gif)
 
 ## Usage
 
@@ -44,9 +44,14 @@ Download the extension from the [GitHub repository](https://github.com/your-repo
 2. Click on the Quiz Solver AI icon.
 3. The extension will automatically solve the quiz for you.
 
+## Video Tutorial
+
+For a detailed video tutorial, watch [this video](https://www.youtube.com/watch?v=qclZj925T2E).
+
+
 ## Support
 
-If you encounter any issues or have any questions, please open an issue on the [GitHub repository](https://github.com/your-repo/extension-quiz-solver/issues).
+If you encounter any issues or have any questions, please open an issue on the [GitHub repository](https://github.com/QuizSolverAI/extension-quiz-solver/issues).
 
 ## License
 
