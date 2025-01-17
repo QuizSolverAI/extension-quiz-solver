@@ -18,7 +18,7 @@ Easily download and install Quiz Solver AI to solve quizzes and homework effortl
 
 ## 🔧 Installation Guide
 
-Follow these simple steps to download and install the extension manually:
+Follow these simple steps (video tutorial is in the bottom) to download and install the extension manually:
 
 ### Step 1: Download the Extension
 1. **Click the green `Code` button** on this repository's homepage.
@@ -27,8 +27,6 @@ Follow these simple steps to download and install the extension manually:
    git clone https://github.com/QuizSolverAI/extension-quiz-solver.git
    ```
 3. Extract the downloaded ZIP file to a folder on your computer.
-
-![Download](assets/img/download.png)
 
 ---
 
@@ -42,8 +40,6 @@ Follow these simple steps to download and install the extension manually:
 ### Step 3: Load the Unpacked Extension
 1. Click **Load Unpacked** in the Extensions Page.
 2. Select the folder where you extracted the downloaded files.
-
-![Add Extension](https://github.com/QuizSolverAI/extension-quiz-solver/tree/main/assets/imgassets/img/add_extension.png)
 
 ---
 
@@ -74,7 +70,7 @@ Need more guidance? Watch our detailed installation and usage tutorial here:
 - Use **Smart Highlight** for quick text-based answers.
 - Activate **QuickSnap** for image-based questions or when text selection isn’t possible.
 - Explore **Settings** to customize features like language preferences, popup behavior, and more.
-- Solve academic challenges efficiently with this **AI Homework Helper**.
+- Solve academic challenges efficiently with this [**AI Homework Helper**](https://quizsolverai.com).
 
 ---
 
@@ -104,7 +100,7 @@ Quiz Solver AI respects your privacy. Your data is not stored, shared, or sold. 
 ### Get Help:
 - Open an issue in the [GitHub Issues Section](https://github.com/QuizSolverAI/extension-quiz-solver/issues).
 - Check our [Documentation/Frequently Asked Questions](https://docs.quizsolverai.com/doc).
-- Email our support team: [support@quizsolverai.com](mailto:support@quizsolverai.com).
+- Email our support team: [contact@quizsolverai.com](mailto:contact@quizsolverai.com).
 
 ---
 
