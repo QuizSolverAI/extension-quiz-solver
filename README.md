@@ -76,7 +76,7 @@ Need more guidance? Watch our detailed installation and usage tutorial here:
 
 ## 📈 System Requirements
 
-- **Browser**: Chrome or any Chromium-based browser (Edge, Brave, etc.)
+- **Browser**: Chrome or any Chromium-based browser (Brave, etc.)
 - **OS**: Windows, macOS, or Linux
 - **Permissions**: Allow access to necessary permissions for optimal functionality.
 
