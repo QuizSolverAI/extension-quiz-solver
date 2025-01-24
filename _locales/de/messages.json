@@ -1,0 +1,464 @@
+{
+  "extName": {
+    "message": "Quiz Solver AI"
+  },
+  "extDescription": {
+    "message": "Ihre KI-gestützte Lösung für intelligenteres Lernen."
+  },
+  "extOpenDescription": {
+    "message": "Quiz Solver starten"
+  },
+  "QuickSnapDescription": {
+    "message": "Fragen schnell mit QuickSnap analysieren."
+  },
+  "SelectTextDescription": {
+    "message": "Text hervorheben, um präzise Antworten zu erhalten."
+  },
+  "alert_zoom": {
+    "message": "Stellen Sie den Zoom auf 100 %, um QuickSnap zu verwenden."
+  },
+  "alert_something_wrong": {
+    "message": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+  },
+  "alert_screen_text_empty": {
+    "message": "Der ausgewählte Bereich ist leer. Bitte versuchen Sie es erneut."
+  },
+  "alert_no_answer": {
+    "message": "Keine Antworten für diese Frage verfügbar."
+  },
+  "alert_no_question": {
+    "message": "Frage wurde nicht erkannt. Bitte erneut versuchen."
+  },
+  "alert_no_text_selected": {
+    "message": "Kein Text ausgewählt. Bitte Text markieren, um fortzufahren."
+  },
+  "alert_no_text_selected_prompt": {
+    "message": "Bitte Text auswählen, um eine Antwort zu erhalten."
+  },
+  "alert_no_text_selected_prompt_screen": {
+    "message": "Bereich ziehen und auswählen, um ihn zu analysieren."
+  },
+  "alert_no_text_selected_prompt_screen_zoom": {
+    "message": "Stellen Sie den Zoom auf 100 %, um eine bessere Analyse durchzuführen."
+  },
+  "message": {
+    "message": "Nachricht"
+  },
+  "label_answer": {
+    "message": "Antwort"
+  },
+  "loading": {
+    "message": "Wird verarbeitet..."
+  },
+  "the_question_request": {
+    "message": "Ihre Frage / Anfrage"
+  },
+  "copy_the_answer": {
+    "message": "Kopieren Sie diese Antwort in die Zwischenablage."
+  },
+  "copy": {
+    "message": "Kopieren"
+  },
+  "good_answer": {
+    "message": "Richtige Antwort"
+  },
+  "wrong_answer": {
+    "message": "Falsche Antwort"
+  },
+  "drag_me": {
+    "message": "Ziehen, um auszuwählen"
+  },
+  "like": {
+    "message": "Daumen hoch"
+  },
+  "dislike": {
+    "message": "Daumen runter"
+  },
+  "sorry_no_answer": {
+    "message": "Entschuldigung, keine Antworten für diese Frage gefunden."
+  },
+  "sorry_no_question": {
+    "message": "Frage wurde nicht erkannt."
+  },
+  "error_login": {
+    "message": "Nicht angemeldet. Bitte verbinden Sie Ihr Konto."
+  },
+  "error_cannot_read_image": {
+    "message": "Das Bild konnte nicht verarbeitet werden. Bitte versuchen Sie es erneut."
+  },
+  "error_no_answer_found": {
+    "message": "Keine Antwort gefunden. Bitte versuchen Sie es erneut."
+  },
+  "error_contact_admin": {
+    "message": "Ein Fehler ist aufgetreten. Bitte wenden Sie sich an den Support."
+  },
+  "error_unknown_action": {
+    "message": "Angeforderte Aktion nicht unterstützt."
+  },
+  "my_account": {
+    "message": "Mein Konto"
+  },
+  "upgrade": {
+    "message": "Plan upgraden"
+  },
+  "documentation": {
+    "message": "Hilfe & Dokumentation"
+  },
+  "my_history": {
+    "message": "Mein Verlauf"
+  },
+  "hey": {
+    "message": "Hallo"
+  },
+  "you_still_have": {
+    "message": "Sie haben noch"
+  },
+  "answers": {
+    "message": "Antworten übrig"
+  },
+  "account_pending": {
+    "message": "Konto wartet auf Genehmigung"
+  },
+  "click_to_request_approval": {
+    "message": "Genehmigung hier anfordern"
+  },
+  "you_are_using": {
+    "message": "Ihr aktueller Plan ist"
+  },
+  "plan": {
+    "message": "Plan"
+  },
+  "subscribe_for_more": {
+    "message": "Abonnieren Sie, um mehr Antworten und Funktionen freizuschalten."
+  },
+  "activate_quizsolver": {
+    "message": "QuizSolver aktivieren"
+  },
+  "turn_on_the_extension": {
+    "message": "Aktivieren Sie die Erweiterung, um Seiteninhalte zu analysieren."
+  },
+  "enable_quizsolver": {
+    "message": "QuizSolver aktivieren"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "auto_detect": {
+    "message": "Automatische Erkennung"
+  },
+  "auto_detect_description": {
+    "message": "<strong>Intelligente automatische Erkennung:</strong> Erkennt und analysiert Quizfragen automatisch."
+  },
+  "precision_highlight": {
+    "message": "Präzises Hervorheben"
+  },
+  "precision_highlight_description": {
+    "message": "<strong>Präziser Hervorhebungsmodus:</strong> Markieren Sie Text, um sofort präzise Antworten zu erhalten."
+  },
+  "quick_snap_mode": {
+    "message": "QuickSnap-Modus"
+  },
+  "quick_snap_description": {
+    "message": "<strong>QuickSnap-Funktion:</strong> Umranden und analysieren Sie Quizfragen ganz einfach."
+  },
+  "quick_snap_language": {
+    "message": "QuickSnap-Sprache"
+  },
+  "quick_snap_language_description": {
+    "message": "Wählen Sie Ihre bevorzugte Sprache für QuickSnap."
+  },
+  "show_question_in_modal": {
+    "message": "Frage anzeigen"
+  },
+  "show_question_in_modal_description": {
+    "message": "<strong>Frage im Modal überprüfen:</strong> Zeigt die erfasste Frage im Modal über der Antwort von QuizSolver an."
+  },
+  "login": {
+    "message": "Anmelden"
+  },
+  "register": {
+    "message": "Registrieren"
+  },
+  "logout": {
+    "message": "Abmelden"
+  },
+  "enable_quizsolver_description": {
+    "message": "<strong>QuizSolver aktivieren:</strong> Aktivieren Sie QuizSolver, um die Erweiterung zu nutzen."
+  },
+  "master_your": {
+    "message": "Meistern Sie Ihre"
+  },
+  "quizzes": {
+    "message": "Quizfragen"
+  },
+  "log_in": {
+    "message": "Anmelden"
+  },
+  "sign_up": {
+    "message": "Registrieren"
+  },
+  "welcome_to": {
+    "message": "Willkommen bei"
+  },
+  "quiz_solver": {
+    "message": "QuizSolver"
+  },
+  "use_quiz_solver_for": {
+    "message": "Sie können QuizSolver verwenden für:"
+  },
+  "multiple_choice_help": {
+    "message": "Finden Sie mühelos die richtigen Antworten für Multiple-Choice-Quizfragen."
+  },
+  "written_answer_help": {
+    "message": "Lösen Sie Fragen, die schriftliche Antworten erfordern."
+  },
+  "text_explanation_help": {
+    "message": "Erklären und verstehen Sie komplexe Textabschnitte."
+  },
+  "less_effective_with": {
+    "message": "Einschränkungen von QuizSolver:"
+  },
+  "long_problems": {
+    "message": "Nicht geeignet für lange Probleme mit mehr als 150 Wörtern."
+  },
+  "image_based_questions": {
+    "message": "Begrenzte Unterstützung für bild-/videobasierte Fragen."
+  },
+  "discover_features": {
+    "message": "Funktionen entdecken"
+  },
+  "our_features": {
+    "message": "Unsere Funktionen"
+  },
+  "smart_highlight": {
+    "message": "Präzises Hervorheben"
+  },
+  "functional_across_websites": {
+    "message": "Kompatibel mit verschiedenen Websites."
+  },
+  "highlight_click_solve": {
+    "message": "Markieren, rechtsklicken und sofort lösen."
+  },
+  "next": {
+    "message": "Weiter"
+  },
+  "previous": {
+    "message": "Zurück"
+  },
+  "quick_snap_tool": {
+    "message": "QuickSnap-Tool"
+  },
+  "capture_receive_answers": {
+    "message": "Bereich auswählen und analysieren mit QuickSnap."
+  },
+  "highly_effective_tool": {
+    "message": "Perfekt für nicht auswählbare Texte."
+  },
+  "lets_solve_quizzes": {
+    "message": "Lassen Sie uns Quizfragen lösen"
+  },
+  "historyTitle": {
+    "message": "Aktivitätsverlauf"
+  },
+  "historyDescription": {
+    "message": "Sehen Sie bis zu 30 Ihrer letzten Anfragen an."
+  },
+  "textColumn": {
+    "message": "Text"
+  },
+  "answerColumn": {
+    "message": "Antworten"
+  },
+  "noHistory": {
+    "message": "Kein Verlauf gefunden."
+  },
+  "errorTryAgainLater": {
+    "message": "Ein Fehler ist aufgetreten. Versuchen Sie es später erneut."
+  },
+  "loginToGetHistory": {
+    "message": "Melden Sie sich an, um den Verlauf anzuzeigen."
+  },
+  "readMore": {
+    "message": "Mehr erfahren"
+  },
+  "readLess": {
+    "message": "Weniger anzeigen"
+  },
+  "default_request_type": {
+    "message": "Standardanforderungstyp"
+  },
+  "default_request_type_description": {
+    "message": "Wählen Sie den Standardanforderungstyp für die Erweiterung."
+  },
+  "DISABLED": {
+    "message": "Deaktiviert"
+  },
+  "SOLVE_PROBLEM": {
+    "message": "Problem lösen"
+  },
+  "EXPLAIN_SOLUTION": {
+    "message": "Antwort mit Erklärung"
+  },
+  "MATH_OPERATIONS": {
+    "message": "Mathematische Aufgaben lösen"
+  },
+  "GEOMETRIC_CALCULATIONS": {
+    "message": "Geometrieaufgaben lösen"
+  },
+  "TRANSLATE_TEXT": {
+    "message": "Text übersetzen"
+  },
+  "EXTRACT_TEXT_FROM_IMAGE": {
+    "message": "Text aus Bild extrahieren"
+  },
+  "REWRITE_TEXT": {
+    "message": "Text umschreiben"
+  },
+  "quick_snap": {
+    "message": "QuickSnap"
+  },
+  "error_extension_not_active": {
+    "message": "QuizSolver ist nicht aktiv. Aktivieren Sie es in den Einstellungen."
+  },
+  "error_quicksnap_not_enabled": {
+    "message": "QuickSnap-Modus ist nicht aktiviert. Aktivieren Sie es in den Einstellungen."
+  },
+  "error_smart_highlight_not_enabled": {
+    "message": "Smart Highlight ist nicht aktiviert. Aktivieren Sie es in den Einstellungen."
+  },
+  "error_no_text_selected": {
+    "message": "Bitte wählen Sie Text aus, um die Smart Highlight-Funktion zu verwenden."
+  },
+  "error_try_again": {
+    "message": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+  },
+  "keyboard_shortcuts": {
+    "message": "Tastenkombinationen"
+  },
+  "full_settings": {
+    "message": "Vollständige Einstellungen"
+  },
+  "quick_snap_mode_description": {
+    "message": "QuickSnap-Modus: Ziehen und umranden Sie die Quizfrage für eine schnelle Analyse."
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "ghost_mode": {
+    "message": "Geistermodus"
+  },
+  "notifications": {
+    "message": "Benachrichtigungen"
+  },
+  "image_solver": {
+    "message": "Bildlösungswerkzeug"
+  },
+  "language_description": {
+    "message": "Wählen Sie Ihre bevorzugte Sprache für QuizSolver."
+  },
+  "ghost_mode_description": {
+    "message": "Geistermodus: Machen Sie die Erweiterung unsichtbar für diskretes Arbeiten."
+  },
+  "notifications_description": {
+    "message": "Erhalten Sie Updates und Funktionsbenachrichtigungen direkt in Ihrem Browser."
+  },
+  "image_solver_description": {
+    "message": "Extrahieren Sie Text aus Bildern und erhalten Sie sofort Antworten."
+  },
+    "advanced_page_settings": {
+      "message": "Erweiterte Einstellungen"
+    },
+    "popup_settings": {
+      "message": "Popup-Einstellungen"
+    },
+    "popup_settings_description": {
+      "message": "Konfigurieren Sie das Verhalten und die Anzeige des Popups."
+    },
+    "show_question": {
+      "message": "Frage anzeigen"
+    },
+    "popup_position": {
+      "message": "Popup-Position"
+    },
+    "show_captured_image": {
+      "message": "Aufgenommenes Bild anzeigen"
+    },
+    "extension_version": {
+      "message": "Erweiterungsversion"
+    },
+    "browser_language": {
+      "message": "Browsersprache"
+    },
+    "custom_style": {
+      "message": "Benutzerdefinierter Stil"
+    },
+    "custom_style_description": {
+      "message": "Passen Sie das Erscheinungsbild des Popups an, einschließlich Hintergrund, Textfarbe und Transparenz."
+    },
+    "request_types": {
+      "message": "Anfragetypen"
+    },
+    "request_types_description": {
+      "message": "Wählen Sie den Anfragetyp, den die Erweiterung verarbeiten soll, z. B. Probleme lösen, übersetzen oder Fragen analysieren."
+    },
+    "request_types_preview": {
+      "message": "Vorschau der Anfrageleiste"
+    },
+  "background": {
+    "message": "Hintergrund"
+  },
+  "text_color": {
+    "message": "Textfarbe"
+  },
+  "opacity": {
+    "message": "Deckkraft"
+  },
+  "border": {
+    "message": "Rahmen"
+  },
+  "bottomLeft": {
+    "message": "Untere linke Position"
+  },
+  "bottomRight": {
+    "message": "Untere rechte Position"
+  },
+  "center": {
+    "message": "Zentralposition"
+  },
+  "centerLeft": {
+    "message": "Zentral links"
+  },
+  "centerRight": {
+    "message": "Zentral rechts"
+  },
+  "topLeft": {
+    "message": "Obere linke Position"
+  },
+  "topRight": {
+    "message": "Obere rechte Position"
+  },
+  "Disabled": {
+    "message": "Deaktiviert"
+  },
+  "solveProblem": {
+    "message": "Problem lösen"
+  },
+  "explainSolution": {
+    "message": "Lösung erklären"
+  },
+  "mathOperations": {
+    "message": "Mathematische Operationen"
+  },
+  "geometryCalculations": {
+    "message": "Geometrische Berechnungen"
+  },
+  "translateText": {
+    "message": "Text übersetzen"
+  },
+  "extractTextFromImage": {
+    "message": "Text aus Bild extrahieren"
+  },
+  "rewriteText": {
+    "message": "Text umschreiben"
+  }
+}

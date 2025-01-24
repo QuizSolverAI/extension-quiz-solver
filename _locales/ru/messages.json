@@ -1,0 +1,467 @@
+{
+  "extName": {
+    "message": "Quiz Solver AI"
+  },
+  "extDescription": {
+    "message": "Ваше решение на основе ИИ для более умного обучения."
+  },
+  "extOpenDescription": {
+    "message": "Запустить Quiz Solver"
+  },
+  "QuickSnapDescription": {
+    "message": "Быстро анализируйте вопросы с помощью QuickSnap."
+  },
+  "SelectTextDescription": {
+    "message": "Выделяйте текст для точных ответов."
+  },
+  "alert_zoom": {
+    "message": "Установите уровень масштабирования на 100%, чтобы использовать QuickSnap."
+  },
+  "alert_something_wrong": {
+    "message": "Произошла ошибка. Попробуйте еще раз."
+  },
+  "alert_screen_text_empty": {
+    "message": "Выбранная область пуста. Попробуйте еще раз."
+  },
+  "alert_no_answer": {
+    "message": "Для этого вопроса нет доступных ответов."
+  },
+  "alert_no_question": {
+    "message": "Вопрос не обнаружен. Попробуйте снова."
+  },
+  "alert_no_text_selected": {
+    "message": "Текст не выбран. Выделите текст, чтобы продолжить."
+  },
+  "alert_no_text_selected_prompt": {
+    "message": "Выберите текст, чтобы получить ответ."
+  },
+  "alert_no_text_selected_prompt_screen": {
+    "message": "Выделите и перетащите область для анализа."
+  },
+  "alert_no_text_selected_prompt_screen_zoom": {
+    "message": "Настройте масштаб на 100% для лучшего анализа."
+  },
+  "message": {
+    "message": "Сообщение"
+  },
+  "label_answer": {
+    "message": "Ответ"
+  },
+  "loading": {
+    "message": "Обработка..."
+  },
+  "the_question_request": {
+    "message": "Ваш вопрос / запрос"
+  },
+  "copy_the_answer": {
+    "message": "Скопируйте этот ответ в буфер обмена."
+  },
+  "copy": {
+    "message": "Копировать"
+  },
+  "good_answer": {
+    "message": "Правильный ответ"
+  },
+  "wrong_answer": {
+    "message": "Неправильный ответ"
+  },
+  "drag_me": {
+    "message": "Перетащите для выбора"
+  },
+  "like": {
+    "message": "Мне нравится"
+  },
+  "dislike": {
+    "message": "Не нравится"
+  },
+  "sorry_no_answer": {
+    "message": "К сожалению, для этого вопроса ответов не найдено."
+  },
+  "sorry_no_question": {
+    "message": "Вопрос не обнаружен."
+  },
+  "error_login": {
+    "message": "Вы не вошли в систему. Пожалуйста, подключите свой аккаунт."
+  },
+  "error_cannot_read_image": {
+    "message": "Не удалось обработать изображение. Попробуйте еще раз."
+  },
+  "error_no_answer_found": {
+    "message": "Ответ не найден. Попробуйте еще раз."
+  },
+  "error_contact_admin": {
+    "message": "Произошла ошибка. Обратитесь в поддержку."
+  },
+  "error_unknown_action": {
+    "message": "Запрошенное действие не поддерживается."
+  },
+  "my_account": {
+    "message": "Мой аккаунт"
+  },
+  "upgrade": {
+    "message": "Обновить план"
+  },
+  "documentation": {
+    "message": "Справка и документация"
+  },
+  "my_history": {
+    "message": "Моя история"
+  },
+  "hey": {
+    "message": "Привет"
+  },
+  "you_still_have": {
+    "message": "У вас осталось"
+  },
+  "answers": {
+    "message": "ответов"
+  },
+  "account_pending": {
+    "message": "Аккаунт ожидает подтверждения"
+  },
+  "click_to_request_approval": {
+    "message": "Запросить подтверждение здесь"
+  },
+  "you_are_using": {
+    "message": "Ваш текущий план"
+  },
+  "plan": {
+    "message": "План"
+  },
+  "subscribe_for_more": {
+    "message": "Подпишитесь, чтобы разблокировать больше ответов и функций."
+  },
+  "activate_quizsolver": {
+    "message": "Активировать QuizSolver"
+  },
+  "turn_on_the_extension": {
+    "message": "Активируйте расширение для анализа содержимого страницы."
+  },
+  "enable_quizsolver": {
+    "message": "Включить QuizSolver"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "auto_detect": {
+    "message": "Автоопределение"
+  },
+  "auto_detect_description": {
+    "message": "<strong>Интеллектуальное автоопределение:</strong> Автоматически определяйте и анализируйте вопросы викторины."
+  },
+  "precision_highlight": {
+    "message": "Интеллектуальное выделение"
+  },
+  "precision_highlight_description": {
+    "message": "<strong>Режим точного выделения:</strong> Выделяйте текст для мгновенного получения точных ответов."
+  },
+  "quick_snap_mode": {
+    "message": "Режим QuickSnap"
+  },
+  "quick_snap_description": {
+    "message": "<strong>Функция QuickSnap:</strong> Легко обведите и проанализируйте вопросы викторины."
+  },
+  "quick_snap_language": {
+    "message": "Язык QuickSnap"
+  },
+  "quick_snap_language_description": {
+    "message": "Выберите предпочитаемый язык для QuickSnap."
+  },
+  "show_question_in_modal": {
+    "message": "Показать вопрос"
+  },
+  "show_question_in_modal_description": {
+    "message": "<strong>Просмотр вопроса в модальном окне:</strong> Показывает захваченный вопрос в модальном окне над ответом QuizSolver для удобства."
+  },
+  "login": {
+    "message": "Войти"
+  },
+  "register": {
+    "message": "Регистрация"
+  },
+  "logout": {
+    "message": "Выйти"
+  },
+  "enable_quizsolver_description": {
+    "message": "<strong>Включить QuizSolver:</strong> Запустите QuizSolver, чтобы начать использовать расширение."
+  },
+  "master_your": {
+    "message": "Управляйте своими"
+  },
+  "quizzes": {
+    "message": "Викторинами"
+  },
+  "log_in": {
+    "message": "Войти"
+  },
+  "sign_up": {
+    "message": "Зарегистрироваться"
+  },
+  "welcome_to": {
+    "message": "Добро пожаловать в"
+  },
+  "quiz_solver": {
+    "message": "QuizSolver"
+  },
+  "use_quiz_solver_for": {
+    "message": "Вы можете использовать QuizSolver для:"
+  },
+  "multiple_choice_help": {
+    "message": "Легко находите правильные ответы на викторины с несколькими вариантами ответа."
+  },
+  "written_answer_help": {
+    "message": "Решайте вопросы, требующие письменных ответов."
+  },
+  "text_explanation_help": {
+    "message": "Разъясняйте и понимайте сложные текстовые разделы."
+  },
+  "less_effective_with": {
+    "message": "Ограничения QuizSolver:"
+  },
+  "long_problems": {
+    "message": "Не подходит для длинных задач более 150 слов."
+  },
+  "image_based_questions": {
+    "message": "Ограниченная поддержка вопросов на основе изображений/видео."
+  },
+  "discover_features": {
+    "message": "Ознакомьтесь с функциями"
+  },
+  "our_features": {
+    "message": "Наши функции"
+  },
+  "smart_highlight": {
+    "message": "Выделяйте с точностью"
+  },
+  "functional_across_websites": {
+    "message": "Совместимо с различными сайтами."
+  },
+  "highlight_click_solve": {
+    "message": "Выделите, щелкните правой кнопкой мыши и мгновенно решите."
+  },
+  "next": {
+    "message": "Далее"
+  },
+  "previous": {
+    "message": "Назад"
+  },
+  "quick_snap_tool": {
+    "message": "Инструмент QuickSnap"
+  },
+  "capture_receive_answers": {
+    "message": "Выберите и проанализируйте с QuickSnap."
+  },
+  "highly_effective_tool": {
+    "message": "Идеально для областей с невыбираемым текстом."
+  },
+  "lets_solve_quizzes": {
+    "message": "Давайте решать викторины"
+  },
+  "historyTitle": {
+    "message": "История активности"
+  },
+  "historyDescription": {
+    "message": "Просмотрите до 30 ваших предыдущих запросов."
+  },
+  "textColumn": {
+    "message": "Текст"
+  },
+  "answerColumn": {
+    "message": "Ответы"
+  },
+  "noHistory": {
+    "message": "История не найдена."
+  },
+  "errorTryAgainLater": {
+    "message": "Произошла ошибка. Попробуйте позже."
+  },
+  "loginToGetHistory": {
+    "message": "Войдите, чтобы просмотреть свою историю."
+  },
+  "readMore": {
+    "message": "Узнать больше"
+  },
+  "readLess": {
+    "message": "Скрыть"
+  },
+  "default_request_type": {
+    "message": "Тип запроса по умолчанию"
+  },
+  "default_request_type_description": {
+    "message": "Выберите тип запроса по умолчанию для расширения."
+  },
+  "DISABLED": {
+    "message": "Отключено"
+  },
+  "SOLVE_PROBLEM": {
+    "message": "Решить проблему"
+  },
+  "EXPLAIN_SOLUTION": {
+    "message": "Ответ с объяснением"
+  },
+  "MATH_OPERATIONS": {
+    "message": "Решение математических задач"
+  },
+  "GEOMETRIC_CALCULATIONS": {
+    "message": "Решение задач по геометрии"
+  },
+  "TRANSLATE_TEXT": {
+    "message": "Перевод текста"
+  },
+  "EXTRACT_TEXT_FROM_IMAGE": {
+    "message": "Извлечение текста из изображения"
+  },
+  "REWRITE_TEXT": {
+    "message": "Переписать текст"
+  },
+  "quick_snap": {
+    "message": "QuickSnap"
+  },
+  "error_extension_not_active": {
+    "message": "QuizSolver не активен. Включите его в настройках."
+  },
+  "error_quicksnap_not_enabled": {
+    "message": "Режим QuickSnap не включен. Включите его в настройках."
+  },
+  "error_smart_highlight_not_enabled": {
+    "message": "Интеллектуальное выделение не включено. Включите его в настройках."
+  },
+  "error_no_text_selected": {
+    "message": "Пожалуйста, выберите текст, чтобы использовать функцию Интеллектуального выделения."
+  },
+  "error_try_again": {
+    "message": "Произошла ошибка. Попробуйте еще раз."
+  },
+  "keyboard_shortcuts": {
+    "message": "Горячие клавиши"
+  },
+  "full_settings": {
+    "message": "Полные настройки"
+  },
+  "quick_snap_mode_description": {
+    "message": "Режим QuickSnap: Выделите и обведите вопрос викторины для быстрого анализа."
+  },
+  "language": {
+    "message": "Язык"
+  },
+  "ghost_mode": {
+    "message": "Режим Ghost"
+  },
+  "notifications": {
+    "message": "Уведомления"
+  },
+  "image_solver": {
+    "message": "Решение задач по изображениям"
+  },
+  "language_description": {
+    "message": "Выберите предпочитаемый язык для QuizSolver."
+  },
+  "ghost_mode_description": {
+    "message": "Режим Ghost: Делает расширение невидимым для использования."
+  },
+  "notifications_description": {
+    "message": "Получайте уведомления об обновлениях и функциях прямо в браузере."
+  },
+  "image_solver_description": {
+    "message": "Извлекайте текст из изображений и получайте ответы мгновенно."
+  },
+  "advanced_page_settings": {
+    "message": "Расширенные Настройки"
+  },
+  "popup_settings": {
+    "message": "Настройки Всплывающего Окна"
+  },
+  "popup_settings_description": {
+    "message": "Настройте, как всплывающее окно отображает информацию и ведет себя."
+  },
+  "show_question": {
+    "message": "Показать Вопрос"
+  },
+  "popup_position": {
+    "message": "Позиция Всплывающего Окна"
+  },
+  "show_captured_image": {
+    "message": "Показать Снимок"
+  },
+  "extension_version": {
+    "message": "Версия Расширения"
+  },
+  "browser_language": {
+    "message": "Язык Браузера"
+  },
+  "custom_style": {
+    "message": "Пользовательский Стиль"
+  },
+  "custom_style_description": {
+    "message": "Настройте внешний вид всплывающего окна, включая фон, цвет текста и прозрачность."
+  },
+  "request_types": {
+    "message": "Типы Запросов"
+  },
+  "request_types_description": {
+    "message": "Выберите тип запроса, который должно обрабатывать расширение, например, решение задач, перевод или анализ вопросов."
+  },
+  "request_types_preview": {
+    "message": "Предварительный Просмотр Типов Запросов"
+  },
+  "background": {
+    "message": "Фон"
+  },
+  "text_color": {
+    "message": "Цвет текста"
+  },
+  "opacity": {
+    "message": "Прозрачность"
+  },
+  "border": {
+    "message": "Граница"
+  },
+  "bottomLeft": {
+    "message": "Нижний левый угол"
+  },
+  "bottomRight": {
+    "message": "Нижний правый угол"
+  },
+  "center": {
+    "message": "Центр"
+  },
+  "centerLeft": {
+    "message": "Центр слева"
+  },
+  "centerRight": {
+    "message": "Центр справа"
+  },
+  "topLeft": {
+    "message": "Верхний левый угол"
+  },
+  "topRight": {
+    "message": "Верхний правый угол"
+  },
+  "Disabled": {
+    "message": "Отключено"
+  },
+  "solveProblem": {
+    "message": "Решить проблему"
+  },
+  "explainSolution": {
+    "message": "Объяснить решение"
+  },
+  "mathOperations": {
+    "message": "Математические операции"
+  },
+  "geometryCalculations": {
+    "message": "Геометрические вычисления"
+  },
+  "translateText": {
+    "message": "Перевести текст"
+  },
+  "extractTextFromImage": {
+    "message": "Извлечь текст из изображения"
+  },
+  "rewriteText": {
+    "message": "Переписать текст"
+  },
+  "ErrorTextSelectedEmpty": {
+    "message": "Текст не выбран. Пожалуйста, выделите текст, чтобы продолжить."
+  }
+}

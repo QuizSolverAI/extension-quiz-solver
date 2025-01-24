@@ -1,0 +1,467 @@
+{
+  "extName": {
+    "message": "Quiz Solver AI"
+  },
+  "extDescription": {
+    "message": "Solusi bertenaga AI untuk belajar lebih pintar."
+  },
+  "extOpenDescription": {
+    "message": "Luncurkan Quiz Solver"
+  },
+  "QuickSnapDescription": {
+    "message": "Analisis pertanyaan dengan cepat menggunakan QuickSnap."
+  },
+  "SelectTextDescription": {
+    "message": "Sorot teks untuk jawaban yang tepat."
+  },
+  "alert_zoom": {
+    "message": "Atur tingkat zoom Anda ke 100% untuk menggunakan QuickSnap."
+  },
+  "alert_something_wrong": {
+    "message": "Terjadi kesalahan. Silakan coba lagi."
+  },
+  "alert_screen_text_empty": {
+    "message": "Area yang dipilih kosong. Silakan coba lagi."
+  },
+  "alert_no_answer": {
+    "message": "Tidak ada jawaban yang tersedia untuk pertanyaan ini."
+  },
+  "alert_no_question": {
+    "message": "Pertanyaan tidak terdeteksi. Silakan coba lagi."
+  },
+  "alert_no_text_selected": {
+    "message": "Tidak ada teks yang dipilih. Sorot teks untuk melanjutkan."
+  },
+  "alert_no_text_selected_prompt": {
+    "message": "Pilih teks untuk mendapatkan jawaban."
+  },
+  "alert_no_text_selected_prompt_screen": {
+    "message": "Seret dan pilih area untuk dianalisis."
+  },
+  "alert_no_text_selected_prompt_screen_zoom": {
+    "message": "Atur zoom Anda ke 100% untuk analisis yang lebih baik."
+  },
+  "message": {
+    "message": "Pesan"
+  },
+  "label_answer": {
+    "message": "Jawaban"
+  },
+  "loading": {
+    "message": "Memproses..."
+  },
+  "the_question_request": {
+    "message": "Pertanyaan Anda / Permintaan"
+  },
+  "copy_the_answer": {
+    "message": "Salin jawaban ini ke papan klip Anda."
+  },
+  "copy": {
+    "message": "Salin"
+  },
+  "good_answer": {
+    "message": "Jawaban Benar"
+  },
+  "wrong_answer": {
+    "message": "Jawaban Salah"
+  },
+  "drag_me": {
+    "message": "Seret untuk memilih"
+  },
+  "like": {
+    "message": "Suka"
+  },
+  "dislike": {
+    "message": "Tidak Suka"
+  },
+  "sorry_no_answer": {
+    "message": "Maaf, tidak ada jawaban yang ditemukan untuk pertanyaan ini."
+  },
+  "sorry_no_question": {
+    "message": "Pertanyaan tidak terdeteksi."
+  },
+  "error_login": {
+    "message": "Belum masuk. Harap hubungkan akun Anda."
+  },
+  "error_cannot_read_image": {
+    "message": "Tidak dapat memproses gambar. Silakan coba lagi."
+  },
+  "error_no_answer_found": {
+    "message": "Tidak ada jawaban yang ditemukan. Silakan coba lagi."
+  },
+  "error_contact_admin": {
+    "message": "Terjadi kesalahan. Hubungi dukungan."
+  },
+  "error_unknown_action": {
+    "message": "Tindakan yang diminta tidak didukung."
+  },
+  "my_account": {
+    "message": "Akun Saya"
+  },
+  "upgrade": {
+    "message": "Tingkatkan Paket"
+  },
+  "documentation": {
+    "message": "Bantuan & Dokumen"
+  },
+  "my_history": {
+    "message": "Riwayat Saya"
+  },
+  "hey": {
+    "message": "Halo"
+  },
+  "you_still_have": {
+    "message": "Anda masih memiliki"
+  },
+  "answers": {
+    "message": "jawaban tersisa"
+  },
+  "account_pending": {
+    "message": "Akun menunggu persetujuan"
+  },
+  "click_to_request_approval": {
+    "message": "Minta persetujuan di sini"
+  },
+  "you_are_using": {
+    "message": "Paket Anda saat ini adalah"
+  },
+  "plan": {
+    "message": "Paket"
+  },
+  "subscribe_for_more": {
+    "message": "Berlangganan untuk membuka lebih banyak jawaban dan fitur."
+  },
+  "activate_quizsolver": {
+    "message": "Aktifkan QuizSolver"
+  },
+  "turn_on_the_extension": {
+    "message": "Aktifkan ekstensi untuk menganalisis konten halaman."
+  },
+  "enable_quizsolver": {
+    "message": "Aktifkan QuizSolver"
+  },
+  "settings": {
+    "message": "Pengaturan"
+  },
+  "auto_detect": {
+    "message": "Deteksi Otomatis"
+  },
+  "auto_detect_description": {
+    "message": "<strong>Deteksi Otomatis Cerdas:</strong> Identifikasi dan analisis pertanyaan kuis secara otomatis."
+  },
+  "precision_highlight": {
+    "message": "Sorot Cerdas"
+  },
+  "precision_highlight_description": {
+    "message": "<strong>Mode Sorot Presisi:</strong> Sorot teks untuk mendapatkan jawaban yang tepat secara instan."
+  },
+  "quick_snap_mode": {
+    "message": "Mode QuickSnap"
+  },
+  "quick_snap_description": {
+    "message": "<strong>Fitur QuickSnap:</strong> Lingkari dan analisis pertanyaan kuis dengan mudah."
+  },
+  "quick_snap_language": {
+    "message": "Bahasa QuickSnap"
+  },
+  "quick_snap_language_description": {
+    "message": "Pilih bahasa yang Anda inginkan untuk QuickSnap."
+  },
+  "show_question_in_modal": {
+    "message": "Tampilkan Pertanyaan"
+  },
+  "show_question_in_modal_description": {
+    "message": "<strong>Ulas Pertanyaan dalam Modal:</strong> Menampilkan pertanyaan yang ditangkap di modal di atas jawaban QuizSolver untuk referensi mudah."
+  },
+  "login": {
+    "message": "Masuk"
+  },
+  "register": {
+    "message": "Daftar"
+  },
+  "logout": {
+    "message": "Keluar"
+  },
+  "enable_quizsolver_description": {
+    "message": "<strong>Aktifkan QuizSolver:</strong> Hidupkan QuizSolver untuk mulai menggunakan ekstensi."
+  },
+  "master_your": {
+    "message": "Kuasai"
+  },
+  "quizzes": {
+    "message": "Kuis Anda"
+  },
+  "log_in": {
+    "message": "Masuk"
+  },
+  "sign_up": {
+    "message": "Daftar"
+  },
+  "welcome_to": {
+    "message": "Selamat Datang di"
+  },
+  "quiz_solver": {
+    "message": "QuizSolver"
+  },
+  "use_quiz_solver_for": {
+    "message": "Anda dapat menggunakan QuizSolver untuk:"
+  },
+  "multiple_choice_help": {
+    "message": "Dengan mudah temukan jawaban yang benar untuk kuis pilihan ganda."
+  },
+  "written_answer_help": {
+    "message": "Jawab pertanyaan yang membutuhkan jawaban tertulis."
+  },
+  "text_explanation_help": {
+    "message": "Perjelas dan pahami bagian teks yang kompleks."
+  },
+  "less_effective_with": {
+    "message": "Keterbatasan QuizSolver:"
+  },
+  "long_problems": {
+    "message": "Tidak cocok untuk masalah panjang lebih dari 150 kata."
+  },
+  "image_based_questions": {
+    "message": "Dukungan terbatas untuk pertanyaan berbasis gambar/video."
+  },
+  "discover_features": {
+    "message": "Jelajahi Fitur"
+  },
+  "our_features": {
+    "message": "Fitur Kami"
+  },
+  "smart_highlight": {
+    "message": "Sorot dengan Presisi"
+  },
+  "functional_across_websites": {
+    "message": "Kompatibel di berbagai situs web."
+  },
+  "highlight_click_solve": {
+    "message": "Sorot, klik kanan, dan selesaikan secara instan."
+  },
+  "next": {
+    "message": "Berikutnya"
+  },
+  "previous": {
+    "message": "Sebelumnya"
+  },
+  "quick_snap_tool": {
+    "message": "Alat QuickSnap"
+  },
+  "capture_receive_answers": {
+    "message": "Pilih dan analisis dengan QuickSnap."
+  },
+  "highly_effective_tool": {
+    "message": "Sangat efektif untuk area dengan teks yang tidak dapat dipilih."
+  },
+  "lets_solve_quizzes": {
+    "message": "Mari Selesaikan Kuis"
+  },
+  "historyTitle": {
+    "message": "Riwayat Aktivitas"
+  },
+  "historyDescription": {
+    "message": "Lihat hingga 30 permintaan terakhir Anda."
+  },
+  "textColumn": {
+    "message": "Teks"
+  },
+  "answerColumn": {
+    "message": "Jawaban"
+  },
+  "noHistory": {
+    "message": "Tidak ada riwayat yang ditemukan."
+  },
+  "errorTryAgainLater": {
+    "message": "Terjadi kesalahan. Coba lagi nanti."
+  },
+  "loginToGetHistory": {
+    "message": "Masuk untuk melihat riwayat Anda."
+  },
+  "readMore": {
+    "message": "Pelajari Lebih Lanjut"
+  },
+  "readLess": {
+    "message": "Tampilkan Lebih Sedikit"
+  },
+  "default_request_type": {
+    "message": "Jenis Permintaan Default"
+  },
+  "default_request_type_description": {
+    "message": "Pilih jenis permintaan default untuk ekstensi."
+  },
+  "DISABLED": {
+    "message": "Dinonaktifkan"
+  },
+  "SOLVE_PROBLEM": {
+    "message": "Selesaikan Masalah"
+  },
+  "EXPLAIN_SOLUTION": {
+    "message": "Jawaban dengan Penjelasan"
+  },
+  "MATH_OPERATIONS": {
+    "message": "Selesaikan Kuis Matematika"
+  },
+  "GEOMETRIC_CALCULATIONS": {
+    "message": "Selesaikan Pertanyaan Geometri"
+  },
+  "TRANSLATE_TEXT": {
+    "message": "Terjemahkan Teks"
+  },
+  "EXTRACT_TEXT_FROM_IMAGE": {
+    "message": "Ekstrak Teks dari Gambar"
+  },
+  "REWRITE_TEXT": {
+    "message": "Tulis Ulang Teks"
+  },
+  "quick_snap": {
+    "message": "QuickSnap"
+  },
+  "error_extension_not_active": {
+    "message": "QuizSolver tidak aktif. Aktifkan di pengaturan."
+  },
+  "error_quicksnap_not_enabled": {
+    "message": "Mode QuickSnap tidak diaktifkan. Aktifkan di pengaturan."
+  },
+  "error_smart_highlight_not_enabled": {
+    "message": "Sorot Cerdas tidak diaktifkan. Aktifkan di pengaturan."
+  },
+  "error_no_text_selected": {
+    "message": "Silakan pilih teks untuk menggunakan fitur Sorot Cerdas."
+  },
+  "error_try_again": {
+    "message": "Terjadi kesalahan. Silakan coba lagi."
+  },
+  "keyboard_shortcuts": {
+    "message": "Pintasan Keyboard"
+  },
+  "full_settings": {
+    "message": "Pengaturan Lengkap"
+  },
+  "quick_snap_mode_description": {
+    "message": "Mode QuickSnap: Seret dan lingkari pertanyaan kuis untuk analisis cepat."
+  },
+  "language": {
+    "message": "Bahasa"
+  },
+  "ghost_mode": {
+    "message": "Mode Hantu"
+  },
+  "notifications": {
+    "message": "Notifikasi"
+  },
+  "image_solver": {
+    "message": "Pemecah Gambar"
+  },
+  "language_description": {
+    "message": "Pilih bahasa yang Anda inginkan untuk QuizSolver."
+  },
+  "ghost_mode_description": {
+    "message": "Mode Hantu: Buat ekstensi tidak terlihat untuk penggunaan yang tenang."
+  },
+  "notifications_description": {
+    "message": "Dapatkan pembaruan dan notifikasi fitur langsung di browser Anda."
+  },
+  "image_solver_description": {
+    "message": "Ekstrak teks dari gambar dan dapatkan jawaban instan."
+  },
+  "advanced_page_settings": {
+    "message": "Pengaturan Lanjutan"
+  },
+  "popup_settings": {
+    "message": "Pengaturan Popup"
+  },
+  "popup_settings_description": {
+    "message": "Konfigurasikan bagaimana popup berperilaku dan menampilkan informasi."
+  },
+  "show_question": {
+    "message": "Tampilkan Pertanyaan"
+  },
+  "popup_position": {
+    "message": "Posisi Popup"
+  },
+  "show_captured_image": {
+    "message": "Tampilkan Gambar yang Diambil"
+  },
+  "extension_version": {
+    "message": "Versi Ekstensi"
+  },
+  "browser_language": {
+    "message": "Bahasa Browser"
+  },
+  "custom_style": {
+    "message": "Gaya Kustom"
+  },
+  "custom_style_description": {
+    "message": "Sesuaikan tampilan popup, termasuk latar belakang, warna teks, dan tingkat opasitas."
+  },
+  "request_types": {
+    "message": "Jenis Permintaan"
+  },
+  "request_types_description": {
+    "message": "Pilih jenis permintaan yang ingin ditangani oleh ekstensi, seperti memecahkan masalah, menerjemahkan, atau menganalisis pertanyaan."
+  },
+  "request_types_preview": {
+    "message": "Pratinjau Jenis Permintaan"
+  },
+  "background": {
+    "message": "Latar belakang"
+  },
+  "text_color": {
+    "message": "Warna teks"
+  },
+  "opacity": {
+    "message": "Kejelasan"
+  },
+  "border": {
+    "message": "Batas"
+  },
+  "bottomLeft": {
+    "message": "Posisi kiri bawah"
+  },
+  "bottomRight": {
+    "message": "Posisi kanan bawah"
+  },
+  "center": {
+    "message": "Posisi tengah"
+  },
+  "centerLeft": {
+    "message": "Posisi tengah kiri"
+  },
+  "centerRight": {
+    "message": "Posisi tengah kanan"
+  },
+  "topLeft": {
+    "message": "Posisi kiri atas"
+  },
+  "topRight": {
+    "message": "Posisi kanan atas"
+  },
+  "Disabled": {
+    "message": "Dinonaktifkan"
+  },
+  "solveProblem": {
+    "message": "Pecahkan masalah"
+  },
+  "explainSolution": {
+    "message": "Jelaskan solusi"
+  },
+  "mathOperations": {
+    "message": "Operasi matematika"
+  },
+  "geometryCalculations": {
+    "message": "Perhitungan geometri"
+  },
+  "translateText": {
+    "message": "Terjemahkan teks"
+  },
+  "extractTextFromImage": {
+    "message": "Ekstrak teks dari gambar"
+  },
+  "rewriteText": {
+    "message": "Tulis ulang teks"
+  },
+  "ErrorTextSelectedEmpty": {
+    "message": "Tidak ada teks yang dipilih. Sorot teks untuk melanjutkan."
+  }
+}
