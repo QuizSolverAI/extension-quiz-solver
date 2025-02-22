@@ -463,5 +463,8 @@
   },
   "ErrorTextSelectedEmpty": {
     "message": "La zone sélectionnée est vide. Veuillez réessayer."
+  },
+  "no_request_types_selected":{
+    "message": "Aucun type de demande sélectionné. Veuillez sélectionner au moins un type de demande."
   }
 }
