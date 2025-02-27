@@ -466,5 +466,35 @@
   },
   "close": {
     "message": "Close"
+  },
+  "our": {
+    "message": "Our"
+  },
+  "features": {
+    "message": "Features"
+  },
+  "smart": {
+    "message": "Smart"
+  },
+  "highlight": {
+    "message": "Highlight"
+  },
+  "quicksnap": {
+    "message": "QuickSnap"
+  },
+  "tool": {
+    "message": "Tool"
+  },
+  "capture_instant_answers": {
+    "message": "Capture and receive instant answers."
+  },
+  "effective_for_nonselectable": {
+    "message": "Highly effective & Ideal for non-selectable text."
+  },
+  "notice_if_disbaled_default_request": {
+    "message": "If disabled, you well not be able to use the default request bar.and quiz solver will detect the question automatically."
+  },
+  "no_request_types_selected": {
+    "message": "No request type selected. Please select at least one request type."
   }
 }

@@ -463,5 +463,8 @@
   },
   "ErrorTextSelectedEmpty": {
     "message": "Tidak ada teks yang dipilih. Sorot teks untuk melanjutkan."
-  }
+  }, 
+  "no_request_types_selected": {
+    "message": "Tidak ada jenis permintaan yang dipilih. Silakan pilih setidaknya satu jenis permintaan."
+}
 }

@@ -463,5 +463,8 @@
   },
   "ErrorTextSelectedEmpty": {
     "message": "النص المحدد فارغ. حاول مرة أخرى."
-  }
+  },
+  "no_request_types_selected": {
+    "message": "لم يتم تحديد نوع الطلب. يرجى تحديد نوع طلب واحد على الأقل."
+}
 }

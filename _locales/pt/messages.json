@@ -463,5 +463,8 @@
   },
   "ErrorTextSelectedEmpty": {
     "message": "Nenhum texto selecionado. Destaque o texto para continuar."
-  }
+  },
+"no_request_types_selected": {
+    "message": "Nenhum tipo de solicitação selecionado. Por favor, selecione pelo menos um tipo de solicitação."
+}
 }

@@ -463,5 +463,8 @@
   },
   "ErrorTextSelectedEmpty": {
     "message": "El texto seleccionado está vacío. Por favor, selecciona un texto válido."
-  }
+  },
+  "no_request_types_selected": {
+    "message": "Ningún tipo de solicitud seleccionado. Por favor, seleccione al menos un tipo de solicitud."
+}
 }

@@ -463,5 +463,8 @@
   },
   "ErrorTextSelectedEmpty": {
     "message": "所选文本为空，请重试。"
-  }
+  },
+"no_request_types_selected": {
+    "message": "未选择请求类型。请至少选择一种请求类型。"
+}
 }

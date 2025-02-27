@@ -460,5 +460,8 @@
   },
   "rewriteText": {
     "message": "Text umschreiben"
-  }
+  },
+  "no_request_types_selected": {
+    "message": "Kein Anfragetyp ausgewählt. Bitte wählen Sie mindestens einen Anfragetyp aus."
+}
 }
