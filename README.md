@@ -70,7 +70,7 @@ Need more guidance? Watch our detailed installation and usage tutorial here:
 - Use **Smart Highlight** for quick text-based answers.
 - Activate **QuickSnap** for image-based questions or when text selection isn’t possible.
 - Explore **Settings** to customize features like language preferences, popup behavior, and more.
-- Solve academic challenges efficiently with this [**AI Homework Helper**](https://quizsolverai.com).
+- Solve academic challenges efficiently with this [**AI Homework Helper**](https://quizsolverai.com/?utm_source=github&utm_medium=offline).
 
 ---
 
@@ -84,7 +84,7 @@ Need more guidance? Watch our detailed installation and usage tutorial here:
 
 ## 🔒 Security & Privacy
 
-Quiz Solver AI respects your privacy. Your data is not stored, shared, or sold. For more details, see our [Privacy Policy](https://quizsolverai.com/privacy-policy).
+Quiz Solver AI respects your privacy. Your data is not stored, shared, or sold. For more details, see our [Privacy Policy](https://quizsolverai.com/page/privacy-policy/?utm_source=github&utm_medium=offline).
 
 ---
 
@@ -111,7 +111,7 @@ We’d love to hear your thoughts!
 - Share this project on social media, blogs, and forums to help others discover Quiz Solver AI:  
   [GitHub Repository](https://github.com/QuizSolverAI/extension-quiz-solver).  
 - Join the discussion on [Telegram](https://t.me/quizsolverai).  
-- Read our [Blog](https://quizsolverai.com/blog/) for the latest updates and tips.  
+- Read our [Blog](https://quizsolverai.com/blog/?utm_source=github&utm_medium=offline) for the latest updates and tips.  
 - Submit feature requests or bug reports via [GitHub Issues](https://github.com/QuizSolverAI/extension-quiz-solver/issues).  
 - Fork this repository and contribute to make Quiz Solver AI even better!  
 
@@ -119,4 +119,4 @@ We’d love to hear your thoughts!
 
 Thank you for choosing Quiz Solver AI—your trusted **AI Homework Solver** and quiz companion! 🎉  
 
-For more, visit our [Website](https://quizsolverai.com/).
+For more, visit our [Website](https://quizsolverai.com/?utm_source=github&utm_medium=offline).
