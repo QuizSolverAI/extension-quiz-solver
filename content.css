@@ -433,3 +433,13 @@ span#qs24-answer-like-span {
     width: 15px;
     height: 15px;
 }
+
+div#qs24-hack-btns-panel.qs25-ghost-mode {
+    opacity: 0.2;
+}
+div#qs24-hack-btns-panel.qs25-ghost-mode:hover {
+    opacity: 0.8;
+}
+div#qs24-hack-btns-panel.qs25-ghost-mode .qs24-close-btn{
+    background-color: #fac5c5;
+}

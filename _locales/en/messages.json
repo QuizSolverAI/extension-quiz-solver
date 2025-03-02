@@ -20,6 +20,9 @@
   "alert_something_wrong": {
     "message": "An error occurred. Please try again."
   },
+  "alert_failed_get_image": {
+    "message": "Failed to get image. Please try again."
+  },
   "alert_screen_text_empty": {
     "message": "The selected area is empty. Please try again."
   },
