@@ -1,0 +1,503 @@
+{
+  "extName": {
+    "message": "Quiz Solver AI"
+  },
+  "extDescription": {
+    "message": "Your AI-powered solution for smarter studying."
+  },
+  "extOpenDescription": {
+    "message": "Launch Quiz Solver"
+  },
+  "QuickSnapDescription": {
+    "message": "Quickly analyze questions with QuickSnap."
+  },
+  "SelectTextDescription": {
+    "message": "Highlight text for precise answers."
+  },
+  "alert_zoom": {
+    "message": "Set your zoom level to 100% to use QuickSnap."
+  },
+  "alert_something_wrong": {
+    "message": "An error occurred. Please try again."
+  },
+  "alert_failed_get_image": {
+    "message": "Failed to get image. Please try again."
+  },
+  "alert_screen_text_empty": {
+    "message": "The selected area is empty. Please try again."
+  },
+  "alert_no_answer": {
+    "message": "No answers available for this question."
+  },
+  "alert_no_question": {
+    "message": "Question not detected. Please retry."
+  },
+  "alert_no_text_selected": {
+    "message": "No text selected. Highlight text to proceed."
+  },
+  "alert_no_text_selected_prompt": {
+    "message": "Select text to get the answer."
+  },
+  "alert_no_text_selected_prompt_screen": {
+    "message": "Drag and select an area to analyze."
+  },
+  "alert_no_text_selected_prompt_screen_zoom": {
+    "message": "Adjust your zoom to 100% for better analysis."
+  },
+  "message": {
+    "message": "Message"
+  },
+  "label_answer": {
+    "message": "Answer"
+  },
+  "loading": {
+    "message": "Processing..."
+  },
+  "the_question_request": {
+    "message": "Your Question / Request"
+  },
+  "copy_the_answer": {
+    "message": "Copy this answer to your clipboard."
+  },
+  "copy": {
+    "message": "Copy"
+  },
+  "good_answer": {
+    "message": "Correct Answer"
+  },
+  "wrong_answer": {
+    "message": "Incorrect Answer"
+  },
+  "drag_me": {
+    "message": "Drag to select"
+  },
+  "like": {
+    "message": "Thumbs Up"
+  },
+  "dislike": {
+    "message": "Thumbs Down"
+  },
+  "sorry_no_answer": {
+    "message": "Sorry, no answers found for this question."
+  },
+  "sorry_no_question": {
+    "message": "Question not detected."
+  },
+  "error_login": {
+    "message": "Not logged in. Please connect your account."
+  },
+  "error_cannot_read_image": {
+    "message": "Could not process the image. Try again."
+  },
+  "error_no_answer_found": {
+    "message": "No answer found. Please retry."
+  },
+  "error_contact_admin": {
+    "message": "An error occurred. Contact support."
+  },
+  "error_unknown_action": {
+    "message": "Unsupported action requested."
+  },
+  "my_account": {
+    "message": "My Account"
+  },
+  "upgrade": {
+    "message": "Upgrade Plan"
+  },
+  "documentation": {
+    "message": "Help & Docs"
+  },
+  "my_history": {
+    "message": "My History"
+  },
+  "hey": {
+    "message": "Hello"
+  },
+  "you_still_have": {
+    "message": "You have"
+  },
+  "answers": {
+    "message": "answers left"
+  },
+  "account_pending": {
+    "message": "Account pending approval"
+  },
+  "click_to_request_approval": {
+    "message": "Request approval here"
+  },
+  "you_are_using": {
+    "message": "Your current plan is"
+  },
+  "plan": {
+    "message": "Plan"
+  },
+  "subscribe_for_more": {
+    "message": "Subscribe to unlock more answers and features."
+  },
+  "activate_quizsolver": {
+    "message": "Enable QuizSolver"
+  },
+  "turn_on_the_extension": {
+    "message": "Activate the extension to analyze page content."
+  },
+  "enable_quizsolver": {
+    "message": "Activate QuizSolver"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "auto_detect": {
+    "message": "Auto-Detect"
+  },
+  "auto_detect_description": {
+    "message": "Automatically identify and analyze quiz questions."
+  },
+  "precision_highlight": {
+    "message": "Smart Highlight"
+  },
+  "precision_highlight_description": {
+    "message": "Highlight text to get precise answers instantly."
+  },
+  "quick_snap_mode": {
+    "message": "QuickSnap Mode"
+  },
+  "quick_snap_description": {
+    "message": "<strong>QuickSnap Feature:</strong> Encircle and analyze quiz questions easily."
+  },
+  "quick_snap_language": {
+    "message": "QuickSnap Language"
+  },
+  "quick_snap_language_description": {
+    "message": "Choose your preferred language for QuickSnap."
+  },
+  "show_question_in_modal": {
+    "message": "Display Question"
+  },
+  "show_question_in_modal_description": {
+    "message": "<strong>Review Question in Modal:</strong> Shows the captured question in the modal above QuizSolver's answer for easy cross-referencing."
+  },
+  "login": {
+    "message": "Log In"
+  },
+  "register": {
+    "message": "Sign Up"
+  },
+  "logout": {
+    "message": "Log Out"
+  },
+  "enable_quizsolver_description": {
+    "message": "<strong>Enable QuizSolver:</strong> Turn on QuizSolver to start using the extension."
+  },
+  "master_your": {
+    "message": "Master Your"
+  },
+  "quizzes": {
+    "message": "Quizzes"
+  },
+  "log_in": {
+    "message": "Log In"
+  },
+  "sign_up": {
+    "message": "Sign Up"
+  },
+  "welcome_to": {
+    "message": "Welcome to"
+  },
+  "quiz_solver": {
+    "message": "QuizSolver"
+  },
+  "use_quiz_solver_for": {
+    "message": "You can use QuizSolver for:"
+  },
+  "multiple_choice_help": {
+    "message": "Easily find the right answers for multiple-choice quizzes."
+  },
+  "written_answer_help": {
+    "message": "Solve questions requiring written answers."
+  },
+  "text_explanation_help": {
+    "message": "Clarify and understand complex text sections."
+  },
+  "less_effective_with": {
+    "message": "Limitations of QuizSolver:"
+  },
+  "long_problems": {
+    "message": "Not suitable for lengthy problems over 150 words."
+  },
+  "image_based_questions": {
+    "message": "Limited support for image/video-based questions."
+  },
+  "discover_features": {
+    "message": "Explore Features"
+  },
+  "our_features": {
+    "message": "Our Features"
+  },
+  "smart_highlight": {
+    "message": "Smart Highlight"
+  },
+  "functional_across_websites": {
+    "message": "Compatible across various websites."
+  },
+  "highlight_click_solve": {
+    "message": "Highlight, right-click, and solve instantly."
+  },
+  "next": {
+    "message": "Next"
+  },
+  "previous": {
+    "message": "Previous"
+  },
+  "quick_snap_tool": {
+    "message": "QuickSnap Tool"
+  },
+  "capture_receive_answers": {
+    "message": "Select and analyze with QuickSnap."
+  },
+  "highly_effective_tool": {
+    "message": "Perfect for areas with non-selectable text."
+  },
+  "lets_solve_quizzes": {
+    "message": "Let’s Solve Quizzes"
+  },
+  "historyTitle": {
+    "message": "Activity History"
+  },
+  "historyDescription": {
+    "message": "View up to 30 of your past requests."
+  },
+  "textColumn": {
+    "message": "Text"
+  },
+  "answerColumn": {
+    "message": "Answers"
+  },
+  "noHistory": {
+    "message": "No history found."
+  },
+  "errorTryAgainLater": {
+    "message": "An error occurred. Try again later."
+  },
+  "loginToGetHistory": {
+    "message": "Log in to view your history."
+  },
+  "readMore": {
+    "message": "Learn More"
+  },
+  "readLess": {
+    "message": "Show Less"
+  },
+  "default_request": {
+    "message": "Default Request Type"
+  },
+  "default_request_description": {
+    "message": "Choose the default request type for the extension."
+  },
+  "DISABLED": {
+    "message": "Disabled"
+  },
+  "SOLVE_PROBLEM": {
+    "message": "Solve Problem"
+  },
+  "EXPLAIN_SOLUTION": {
+    "message": "Answer with Explanation"
+  },
+  "MATH_OPERATIONS": {
+    "message": "Solve Math Quizzes"
+  },
+  "GEOMETRIC_CALCULATIONS": {
+    "message": "Solve Geometry Questions"
+  },
+  "TRANSLATE_TEXT": {
+    "message": "Translate Text"
+  },
+  "EXTRACT_TEXT_FROM_IMAGE": {
+    "message": "Extract Text from Image"
+  },
+  "REWRITE_TEXT": {
+    "message": "Rewrite Text"
+  },
+  "quick_snap": {
+    "message": "QuickSnap"
+  },
+  "error_extension_not_active": {
+    "message": "QuizSolver is not active. Enable it in settings."
+  },
+  "error_quicksnap_not_enabled": {
+    "message": "QuickSnap Mode is not enabled. Enable it in settings."
+  },
+  "error_smart_highlight_not_enabled": {
+    "message": "Smart Highlight is not enabled. Enable it in settings."
+  },
+  "error_no_text_selected": {
+    "message": "Please select the text to use the Smart Highlight feature."
+  },
+  "error_try_again": {
+    "message": "An error occurred. Please try again."
+  },
+  "keyboard_shortcuts": {
+    "message": "Keyboard Shortcuts"
+  },
+  "full_settings": {
+    "message": "Full Settings"
+  },
+  "quick_snap_mode_description": {
+    "message": "Drag and drop to encircle the quiz question and answers for quick analysis."
+  },
+  "language": {
+    "message": "Language"
+  },
+  "ghost_mode": {
+    "message": "Ghost Mode"
+  },
+  "notifications": {
+    "message": "Notifications"
+  },
+  "image_solver": {
+    "message": "Image Solver"
+  },
+  "language_description": {
+    "message": "Choose your preferred language for QuizSolver."
+  },
+  "ghost_mode_description": {
+    "message": "Make the extension invisible for discreet use."
+  },
+  "notifications_description": {
+    "message": "Receive updates and feature notifications directly in your browser."
+  },
+  "image_solver_description": {
+    "message": "Extract text from images and get instant answers."
+  },
+  "advanced_page_settings": {
+    "message": "Advanced Settings"
+  },
+  "popup_settings": {
+    "message": "Popup Settings"
+  },
+  "popup_settings_description": {
+    "message": "Configure how the popup behaves and displays information."
+  },
+  "show_question": {
+    "message": "Show Question"
+  },
+  "popup_position": {
+    "message": "Popup Position"
+  },
+  "show_captured_image": {
+    "message": "Show Captured Image"
+  },
+  "extension_version": {
+    "message": "Extension Version"
+  },
+  "browser_language": {
+    "message": "Browser Language"
+  },
+  "custom_style": {
+    "message": "Custom Style"
+  },
+  "custom_style_description": {
+    "message": "Customize the appearance of the popup, including background, text color, and opacity."
+  },
+  "request_types": {
+    "message": "Request Types"
+  },
+  "request_types_description": {
+    "message": "Choose the type of request you want the extension to handle, such as solving problems, translate, analyzing questions, etc..."
+  },
+  "request_types_preview": {
+    "message": "Request bar Preview"
+  },
+  "background": {
+    "message": "Background"
+  },
+  "text_color": {
+    "message": "Text color"
+  },
+  "opacity": {
+    "message": "Opacity"
+  },
+  "border": {
+    "message": "Border"
+  },
+  "bottomLeft": {
+    "message": "Bottom left position"
+  },
+  "bottomRight": {
+    "message": "Bottom right position"
+  },
+  "center": {
+    "message": "Center position"
+  },
+  "centerLeft": {
+    "message": "Center left position"
+  },
+  "centerRight": {
+    "message": "Center right position"
+  },
+  "topLeft": {
+    "message": "Top left position"
+  },
+  "topRight": {
+    "message": "Top right position"
+  },
+  "Disabled": {
+    "message": "Disabled"
+  },
+  "solveProblem": {
+    "message": "Solve problem"
+  },
+  "explainSolution": {
+    "message": "Explain solution"
+  },
+  "mathOperations": {
+    "message": "Mathematical operations"
+  },
+  "geometryCalculations": {
+    "message": "Geometry calculations"
+  },
+  "translateText": {
+    "message": "Translate text"
+  },
+  "extractTextFromImage": {
+    "message": "Extract text from image"
+  },
+  "rewriteText": {
+    "message": "Rewrite text"
+  },
+  "ErrorTextSelectedEmpty": {
+    "message": "Please select text first"
+  },
+  "close": {
+    "message": "Close"
+  },
+  "our": {
+    "message": "Our"
+  },
+  "features": {
+    "message": "Features"
+  },
+  "smart": {
+    "message": "Smart"
+  },
+  "highlight": {
+    "message": "Highlight"
+  },
+  "quicksnap": {
+    "message": "QuickSnap"
+  },
+  "tool": {
+    "message": "Tool"
+  },
+  "capture_instant_answers": {
+    "message": "Capture and receive instant answers."
+  },
+  "effective_for_nonselectable": {
+    "message": "Highly effective & Ideal for non-selectable text."
+  },
+  "notice_if_disbaled_default_request": {
+    "message": "If disabled, you well not be able to use the default request bar.and quiz solver will detect the question automatically."
+  },
+  "no_request_types_selected": {
+    "message": "No request type selected. Please select at least one request type."
+  }
+}

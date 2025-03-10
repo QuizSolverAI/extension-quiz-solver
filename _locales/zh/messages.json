@@ -1,0 +1,470 @@
+{
+  "extName": {
+    "message": "Quiz Solver AI"
+  },
+  "extDescription": {
+    "message": "您的 AI 驱动的智能学习解决方案。"
+  },
+  "extOpenDescription": {
+    "message": "启动 Quiz Solver"
+  },
+  "QuickSnapDescription": {
+    "message": "使用 QuickSnap 快速分析问题。"
+  },
+  "SelectTextDescription": {
+    "message": "高亮文本以获得精确答案。"
+  },
+  "alert_zoom": {
+    "message": "将缩放级别设置为 100% 以使用 QuickSnap 功能。"
+  },
+  "alert_something_wrong": {
+    "message": "发生错误，请重试。"
+  },
+  "alert_screen_text_empty": {
+    "message": "所选区域为空，请重试。"
+  },
+  "alert_no_answer": {
+    "message": "此问题暂无可用答案。"
+  },
+  "alert_no_question": {
+    "message": "未检测到问题，请重试。"
+  },
+  "alert_no_text_selected": {
+    "message": "未选择文本，请高亮文本以继续。"
+  },
+  "alert_no_text_selected_prompt": {
+    "message": "选择文本以获取答案。"
+  },
+  "alert_no_text_selected_prompt_screen": {
+    "message": "拖动并选择一个区域以进行分析。"
+  },
+  "alert_no_text_selected_prompt_screen_zoom": {
+    "message": "调整缩放级别为 100% 以获得更好的分析结果。"
+  },
+  "message": {
+    "message": "消息"
+  },
+  "label_answer": {
+    "message": "答案"
+  },
+  "loading": {
+    "message": "处理中……"
+  },
+  "the_question_request": {
+    "message": "您的问题/请求"
+  },
+  "copy_the_answer": {
+    "message": "将此答案复制到剪贴板。"
+  },
+  "copy": {
+    "message": "复制"
+  },
+  "good_answer": {
+    "message": "正确答案"
+  },
+  "wrong_answer": {
+    "message": "错误答案"
+  },
+  "drag_me": {
+    "message": "拖动以选择"
+  },
+  "like": {
+    "message": "赞"
+  },
+  "dislike": {
+    "message": "踩"
+  },
+  "sorry_no_answer": {
+    "message": "抱歉，未找到此问题的答案。"
+  },
+  "sorry_no_question": {
+    "message": "未检测到问题。"
+  },
+  "error_login": {
+    "message": "未登录，请连接您的账户。"
+  },
+  "error_cannot_read_image": {
+    "message": "无法处理图片，请重试。"
+  },
+  "error_no_answer_found": {
+    "message": "未找到答案，请重试。"
+  },
+  "error_contact_admin": {
+    "message": "发生错误，请联系支持。"
+  },
+  "error_unknown_action": {
+    "message": "请求的操作不受支持。"
+  },
+  "my_account": {
+    "message": "我的账户"
+  },
+  "upgrade": {
+    "message": "升级计划"
+  },
+  "documentation": {
+    "message": "帮助与文档"
+  },
+  "my_history": {
+    "message": "我的历史记录"
+  },
+  "hey": {
+    "message": "你好"
+  },
+  "you_still_have": {
+    "message": "您还有"
+  },
+  "answers": {
+    "message": "答案剩余"
+  },
+  "account_pending": {
+    "message": "账户待审批"
+  },
+  "click_to_request_approval": {
+    "message": "点击此处申请审批"
+  },
+  "you_are_using": {
+    "message": "您当前的计划是"
+  },
+  "plan": {
+    "message": "计划"
+  },
+  "subscribe_for_more": {
+    "message": "订阅以解锁更多答案和功能。"
+  },
+  "activate_quizsolver": {
+    "message": "启用 QuizSolver"
+  },
+  "turn_on_the_extension": {
+    "message": "激活扩展以分析页面内容。"
+  },
+  "enable_quizsolver": {
+    "message": "启用 QuizSolver"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "auto_detect": {
+    "message": "自动检测"
+  },
+  "auto_detect_description": {
+    "message": "<strong>智能自动检测：</strong>自动识别并分析测验问题。"
+  },
+  "precision_highlight": {
+    "message": "精准高亮"
+  },
+  "precision_highlight_description": {
+    "message": "<strong>精准高亮模式：</strong>高亮文本以即时获得准确答案。"
+  },
+  "quick_snap_mode": {
+    "message": "QuickSnap 模式"
+  },
+  "quick_snap_description": {
+    "message": "<strong>QuickSnap 功能：</strong>轻松圈选并分析测验问题。"
+  },
+  "quick_snap_language": {
+    "message": "QuickSnap 语言"
+  },
+  "quick_snap_language_description": {
+    "message": "选择 QuickSnap 的首选语言。"
+  },
+  "show_question_in_modal": {
+    "message": "显示问题"
+  },
+  "show_question_in_modal_description": {
+    "message": "<strong>在模式中查看问题：</strong>在 QuizSolver 的答案上方显示捕获的问题以便交叉参考。"
+  },
+  "login": {
+    "message": "登录"
+  },
+  "register": {
+    "message": "注册"
+  },
+  "logout": {
+    "message": "退出登录"
+  },
+  "enable_quizsolver_description": {
+    "message": "<strong>启用 QuizSolver：</strong>开启 QuizSolver 开始使用扩展功能。"
+  },
+  "master_your": {
+    "message": "掌握您的"
+  },
+  "quizzes": {
+    "message": "测验"
+  },
+  "log_in": {
+    "message": "登录"
+  },
+  "sign_up": {
+    "message": "注册"
+  },
+  "welcome_to": {
+    "message": "欢迎使用"
+  },
+  "quiz_solver": {
+    "message": "QuizSolver"
+  },
+  "use_quiz_solver_for": {
+    "message": "您可以使用 QuizSolver 来："
+  },
+  "multiple_choice_help": {
+    "message": "轻松找到多项选择题的正确答案。"
+  },
+  "written_answer_help": {
+    "message": "解决需要书面答案的问题。"
+  },
+  "text_explanation_help": {
+    "message": "澄清并理解复杂的文本部分。"
+  },
+  "less_effective_with": {
+    "message": "QuizSolver 的局限性："
+  },
+  "long_problems": {
+    "message": "不适合 150 字以上的长问题。"
+  },
+  "image_based_questions": {
+    "message": "对基于图片/视频的问题支持有限。"
+  },
+  "discover_features": {
+    "message": "探索功能"
+  },
+  "our_features": {
+    "message": "我们的功能"
+  },
+  "smart_highlight": {
+    "message": "精准高亮"
+  },
+  "functional_across_websites": {
+    "message": "兼容多种网站。"
+  },
+  "highlight_click_solve": {
+    "message": "高亮，右键点击，立即解决。"
+  },
+  "next": {
+    "message": "下一步"
+  },
+  "previous": {
+    "message": "上一步"
+  },
+  "quick_snap_tool": {
+    "message": "QuickSnap 工具"
+  },
+  "capture_receive_answers": {
+    "message": "使用 QuickSnap 选择并分析。"
+  },
+  "highly_effective_tool": {
+    "message": "适用于无法选择文本的区域。"
+  },
+  "lets_solve_quizzes": {
+    "message": "让我们解决测验问题"
+  },
+  "historyTitle": {
+    "message": "活动历史记录"
+  },
+  "historyDescription": {
+    "message": "查看您过去 30 个请求的历史记录。"
+  },
+  "textColumn": {
+    "message": "文本"
+  },
+  "answerColumn": {
+    "message": "答案"
+  },
+  "noHistory": {
+    "message": "未找到历史记录。"
+  },
+  "errorTryAgainLater": {
+    "message": "发生错误，请稍后重试。"
+  },
+  "loginToGetHistory": {
+    "message": "登录以查看您的历史记录。"
+  },
+  "readMore": {
+    "message": "查看更多"
+  },
+  "readLess": {
+    "message": "收起"
+  },
+  "default_request_type": {
+    "message": "默认请求类型"
+  },
+  "default_request_type_description": {
+    "message": "选择扩展程序的默认请求类型。"
+  },
+  "DISABLED": {
+    "message": "禁用"
+  },
+  "SOLVE_PROBLEM": {
+    "message": "解决问题"
+  },
+  "EXPLAIN_SOLUTION": {
+    "message": "提供解释的答案"
+  },
+  "MATH_OPERATIONS": {
+    "message": "解决数学测验"
+  },
+  "GEOMETRIC_CALCULATIONS": {
+    "message": "解决几何问题"
+  },
+  "TRANSLATE_TEXT": {
+    "message": "翻译文本"
+  },
+  "EXTRACT_TEXT_FROM_IMAGE": {
+    "message": "从图片中提取文本"
+  },
+  "REWRITE_TEXT": {
+    "message": "重写文本"
+  },
+  "quick_snap": {
+    "message": "QuickSnap"
+  },
+  "error_extension_not_active": {
+    "message": "QuizSolver 未激活。请在设置中启用。"
+  },
+  "error_quicksnap_not_enabled": {
+    "message": "QuickSnap 模式未启用。请在设置中启用。"
+  },
+  "error_smart_highlight_not_enabled": {
+    "message": "智能高亮未启用。请在设置中启用。"
+  },
+  "error_no_text_selected": {
+    "message": "请选择文本以使用智能高亮功能。"
+  },
+  "error_try_again": {
+    "message": "发生错误，请重试。"
+  },
+  "keyboard_shortcuts": {
+    "message": "键盘快捷键"
+  },
+  "full_settings": {
+    "message": "完整设置"
+  },
+  "quick_snap_mode_description": {
+    "message": "QuickSnap 模式：拖放圈选测验问题和答案进行快速分析。"
+  },
+  "language": {
+    "message": "语言"
+  },
+  "ghost_mode": {
+    "message": "隐身模式"
+  },
+  "notifications": {
+    "message": "通知"
+  },
+  "image_solver": {
+    "message": "图片求解器"
+  },
+  "language_description": {
+    "message": "选择 QuizSolver 的首选语言。"
+  },
+  "ghost_mode_description": {
+    "message": "隐身模式：使扩展程序不可见，便于隐秘使用。"
+  },
+  "notifications_description": {
+    "message": "直接在浏览器中接收更新和功能通知。"
+  },
+  "image_solver_description": {
+    "message": "从图片中提取文本并立即获取答案。"
+  },
+  "advanced_page_settings": {
+    "message": "高级设置"
+  },
+  "popup_settings": {
+    "message": "弹窗设置"
+  },
+  "popup_settings_description": {
+    "message": "配置弹窗的行为和显示信息。"
+  },
+  "show_question": {
+    "message": "显示问题"
+  },
+  "popup_position": {
+    "message": "弹窗位置"
+  },
+  "show_captured_image": {
+    "message": "显示捕获的图像"
+  },
+  "extension_version": {
+    "message": "扩展版本"
+  },
+  "browser_language": {
+    "message": "浏览器语言"
+  },
+  "custom_style": {
+    "message": "自定义样式"
+  },
+  "custom_style_description": {
+    "message": "自定义弹窗外观，包括背景、文字颜色和透明度。"
+  },
+  "request_types": {
+    "message": "请求类型"
+  },
+  "request_types_description": {
+    "message": "选择扩展要处理的请求类型，例如解决问题、翻译或分析问题。"
+  },
+  "request_types_preview": {
+    "message": "请求类型预览"
+  },
+  "background": {
+    "message": "背景"
+  },
+  "text_color": {
+    "message": "文字颜色"
+  },
+  "opacity": {
+    "message": "不透明度"
+  },
+  "border": {
+    "message": "边框"
+  },
+  "bottomLeft": {
+    "message": "左下位置"
+  },
+  "bottomRight": {
+    "message": "右下位置"
+  },
+  "center": {
+    "message": "居中位置"
+  },
+  "centerLeft": {
+    "message": "中心左位置"
+  },
+  "centerRight": {
+    "message": "中心右位置"
+  },
+  "topLeft": {
+    "message": "左上位置"
+  },
+  "topRight": {
+    "message": "右上位置"
+  },
+  "Disabled": {
+    "message": "禁用"
+  },
+  "solveProblem": {
+    "message": "解决问题"
+  },
+  "explainSolution": {
+    "message": "解释解决方案"
+  },
+  "mathOperations": {
+    "message": "数学运算"
+  },
+  "geometryCalculations": {
+    "message": "几何计算"
+  },
+  "translateText": {
+    "message": "翻译文本"
+  },
+  "extractTextFromImage": {
+    "message": "从图像中提取文本"
+  },
+  "rewriteText": {
+    "message": "重写文本"
+  },
+  "ErrorTextSelectedEmpty": {
+    "message": "所选文本为空，请重试。"
+  },
+"no_request_types_selected": {
+    "message": "未选择请求类型。请至少选择一种请求类型。"
+}
+}

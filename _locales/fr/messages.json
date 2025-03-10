@@ -1,0 +1,473 @@
+{
+  "extName": {
+    "message": "Quiz Solver AI"
+  },
+  "extDescription": {
+    "message": "Votre solution intelligente alimentée par l'IA pour étudier plus efficacement."
+  },
+  "extOpenDescription": {
+    "message": "Lancer Quiz Solver"
+  },
+  "QuickSnapDescription": {
+    "message": "Analysez rapidement les questions avec QuickSnap."
+  },
+  "SelectTextDescription": {
+    "message": "Surlignez du texte pour des réponses précises."
+  },
+  "alert_zoom": {
+    "message": "Réglez le niveau de zoom à 100% pour utiliser QuickSnap."
+  },
+  "alert_something_wrong": {
+    "message": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "alert_screen_text_empty": {
+    "message": "La zone sélectionnée est vide. Veuillez réessayer."
+  },
+  "alert_no_answer": {
+    "message": "Aucune réponse disponible pour cette question."
+  },
+  "alert_no_question": {
+    "message": "Aucune question détectée. Veuillez réessayer."
+  },
+  "alert_no_text_selected": {
+    "message": "Aucun texte sélectionné. Surlignez du texte pour continuer."
+  },
+  "alert_no_text_selected_prompt": {
+    "message": "Sélectionnez un texte pour obtenir une réponse."
+  },
+  "alert_no_text_selected_prompt_screen": {
+    "message": "Faites glisser et sélectionnez une zone à analyser."
+  },
+  "alert_no_text_selected_prompt_screen_zoom": {
+    "message": "Réglez le zoom à 100% pour une meilleure analyse."
+  },
+  "message": {
+    "message": "Message"
+  },
+  "label_answer": {
+    "message": "Réponse"
+  },
+  "loading": {
+    "message": "Traitement en cours..."
+  },
+  "the_question_request": {
+    "message": "Votre Question / Demande"
+  },
+  "copy_the_answer": {
+    "message": "Copiez cette réponse dans votre presse-papiers."
+  },
+  "copy": {
+    "message": "Copier"
+  },
+  "good_answer": {
+    "message": "Bonne Réponse"
+  },
+  "wrong_answer": {
+    "message": "Mauvaise Réponse"
+  },
+  "drag_me": {
+    "message": "Faites glisser pour sélectionner"
+  },
+  "like": {
+    "message": "J'aime"
+  },
+  "dislike": {
+    "message": "Je n'aime pas"
+  },
+  "sorry_no_answer": {
+    "message": "Désolé, aucune réponse trouvée pour cette question."
+  },
+  "sorry_no_question": {
+    "message": "Aucune question détectée."
+  },
+  "error_login": {
+    "message": "Non connecté. Veuillez connecter votre compte."
+  },
+  "error_cannot_read_image": {
+    "message": "Impossible de traiter l'image. Veuillez réessayer."
+  },
+  "error_no_answer_found": {
+    "message": "Aucune réponse trouvée. Veuillez réessayer."
+  },
+  "error_contact_admin": {
+    "message": "Une erreur s'est produite. Contactez le support."
+  },
+  "error_unknown_action": {
+    "message": "Action demandée non supportée."
+  },
+  "my_account": {
+    "message": "Mon Compte"
+  },
+  "upgrade": {
+    "message": "Mettre à Niveau"
+  },
+  "documentation": {
+    "message": "Aide & Documentation"
+  },
+  "my_history": {
+    "message": "Mon Historique"
+  },
+  "hey": {
+    "message": "Bonjour"
+  },
+  "you_still_have": {
+    "message": "Il vous reste"
+  },
+  "answers": {
+    "message": "réponses disponibles"
+  },
+  "account_pending": {
+    "message": "Compte en attente d'approbation"
+  },
+  "click_to_request_approval": {
+    "message": "Demandez une approbation ici"
+  },
+  "you_are_using": {
+    "message": "Votre plan actuel est"
+  },
+  "plan": {
+    "message": "Plan"
+  },
+  "subscribe_for_more": {
+    "message": "Abonnez-vous pour débloquer plus de réponses et de fonctionnalités."
+  },
+  "activate_quizsolver": {
+    "message": "Activer QuizSolver"
+  },
+  "turn_on_the_extension": {
+    "message": "Activez l'extension pour analyser le contenu de la page."
+  },
+  "enable_quizsolver": {
+    "message": "Activer QuizSolver"
+  },
+  "settings": {
+    "message": "Paramètres"
+  },
+  "auto_detect": {
+    "message": "Détection Automatique"
+  },
+  "auto_detect_description": {
+    "message": "<strong>Détection Intelligente :</strong> Identifie et analyse automatiquement les questions des quiz."
+  },
+  "precision_highlight": {
+    "message": "Surlignage Précis"
+  },
+  "precision_highlight_description": {
+    "message": "<strong>Mode Surlignage Précis :</strong> Surlignez un texte pour obtenir instantanément des réponses précises."
+  },
+  "quick_snap_mode": {
+    "message": "Mode QuickSnap"
+  },
+  "quick_snap_description": {
+    "message": "<strong>Fonction QuickSnap :</strong> Encadrez et analysez facilement les questions des quiz."
+  },
+  "quick_snap_language": {
+    "message": "Langue de QuickSnap"
+  },
+  "quick_snap_language_description": {
+    "message": "Choisissez votre langue préférée pour QuickSnap."
+  },
+  "show_question_in_modal": {
+    "message": "Afficher la Question"
+  },
+  "show_question_in_modal_description": {
+    "message": "<strong>Revoir la Question dans un Modal :</strong> Affiche la question capturée dans un modal avec la réponse de QuizSolver."
+  },
+  "login": {
+    "message": "Se Connecter"
+  },
+  "register": {
+    "message": "S'inscrire"
+  },
+  "logout": {
+    "message": "Se Déconnecter"
+  },
+  "enable_quizsolver_description": {
+    "message": "<strong>Activer QuizSolver :</strong> Lancez QuizSolver pour commencer à utiliser l'extension."
+  },
+  "master_your": {
+    "message": "Maîtrisez vos"
+  },
+  "quizzes": {
+    "message": "Quiz"
+  },
+  "log_in": {
+    "message": "Se Connecter"
+  },
+  "sign_up": {
+    "message": "S'inscrire"
+  },
+  "welcome_to": {
+    "message": "Bienvenue chez"
+  },
+  "quiz_solver": {
+    "message": "QuizSolver"
+  },
+  "use_quiz_solver_for": {
+    "message": "Optimisez votre processus d'apprentissage avec QuizSolver."
+  },
+  "multiple_choice_help": {
+    "message": "Trouvez facilement les bonnes réponses aux questions à choix multiple."
+  },
+  "written_answer_help": {
+    "message": "Résolvez les questions nécessitant des réponses écrites."
+  },
+  "text_explanation_help": {
+    "message": "Clarifiez et comprenez des sections complexes de texte."
+  },
+  "less_effective_with": {
+    "message": "Limitations de QuizSolver :"
+  },
+  "long_problems": {
+    "message": "Non adapté aux problèmes longs de plus de 150 mots."
+  },
+  "image_based_questions": {
+    "message": "Support limité pour les questions basées sur des images ou des vidéos."
+  },
+  "discover_features": {
+    "message": "Explorez les Fonctions"
+  },
+  "our_features": {
+    "message": "Nos Fonctions"
+  },
+  "smart_highlight": {
+    "message": "Surlignage Précis"
+  },
+  "functional_across_websites": {
+    "message": "Compatible avec plusieurs sites web."
+  },
+  "highlight_click_solve": {
+    "message": "Surlignez, cliquez droit et résolvez instantanément."
+  },
+  "next": {
+    "message": "Suivant"
+  },
+  "previous": {
+    "message": "Précédent"
+  },
+  "quick_snap_tool": {
+    "message": "Outil QuickSnap"
+  },
+  "capture_receive_answers": {
+    "message": "Sélectionnez et analysez avec QuickSnap."
+  },
+  "highly_effective_tool": {
+    "message": "Parfait pour les zones avec du texte non sélectionnable."
+  },
+  "lets_solve_quizzes": {
+    "message": "Résolvons des Quiz"
+  },
+  "historyTitle": {
+    "message": "Historique des Activités"
+  },
+  "historyDescription": {
+    "message": "Consultez jusqu'à 30 de vos demandes précédentes."
+  },
+  "textColumn": {
+    "message": "Texte"
+  },
+  "answerColumn": {
+    "message": "Réponses"
+  },
+  "noHistory": {
+    "message": "Aucun historique trouvé."
+  },
+  "errorTryAgainLater": {
+    "message": "Une erreur s'est produite. Réessayez plus tard."
+  },
+  "loginToGetHistory": {
+    "message": "Connectez-vous pour voir votre historique."
+  },
+  "readMore": {
+    "message": "En Savoir Plus"
+  },
+  "readLess": {
+    "message": "Voir Moins"
+  },
+  "default_request_type": {
+    "message": "Type de Demande par Défaut"
+  },
+  "default_request_type_description": {
+    "message": "Choisissez le type de demande par défaut pour l'extension."
+  },
+  "default_request": {
+    "message": "Demande par Défaut"
+  },
+  "DISABLED": {
+    "message": "Désactivé"
+  },
+  "SOLVE_PROBLEM": {
+    "message": "Résoudre un Problème"
+  },
+  "EXPLAIN_SOLUTION": {
+    "message": "Répondre avec Explication"
+  },
+  "MATH_OPERATIONS": {
+    "message": "Résoudre des Opérations Mathématiques"
+  },
+  "GEOMETRIC_CALCULATIONS": {
+    "message": "Résoudre des Questions Géométriques"
+  },
+  "TRANSLATE_TEXT": {
+    "message": "Traduire du Texte"
+  },
+  "EXTRACT_TEXT_FROM_IMAGE": {
+    "message": "Extraire du Texte d'une Image"
+  },
+  "REWRITE_TEXT": {
+    "message": "Réécrire du Texte"
+  },
+  "quick_snap": {
+    "message": "QuickSnap"
+  },
+  "error_extension_not_active": {
+    "message": "QuizSolver n'est pas actif. Activez-le dans les paramètres."
+  },
+  "error_quicksnap_not_enabled": {
+    "message": "Le Mode QuickSnap n'est pas activé. Activez-le dans les paramètres."
+  },
+  "error_smart_highlight_not_enabled": {
+    "message": "Le Surlignage Intelligent n'est pas activé. Activez-le dans les paramètres."
+  },
+  "error_no_text_selected": {
+    "message": "Veuillez sélectionner un texte pour utiliser la fonction de Surlignage Intelligent."
+  },
+  "error_try_again": {
+    "message": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "keyboard_shortcuts": {
+    "message": "Raccourcis Clavier"
+  },
+  "full_settings": {
+    "message": "Paramètres Complets"
+  },
+  "quick_snap_mode_description": {
+    "message": "Mode QuickSnap : Encadrez et analysez les questions des quiz pour une analyse rapide."
+  },
+  "language": {
+    "message": "Langue"
+  },
+  "ghost_mode": {
+    "message": "Mode Fantôme"
+  },
+  "notifications": {
+    "message": "Notifications"
+  },
+  "image_solver": {
+    "message": "Solveur d'Images"
+  },
+  "language_description": {
+    "message": "Choisissez votre langue préférée pour QuizSolver."
+  },
+  "ghost_mode_description": {
+    "message": "Mode Fantôme : Rendez l'extension invisible pour une utilisation discrète."
+  },
+  "notifications_description": {
+    "message": "Recevez des mises à jour et des notifications sur les nouvelles fonctionnalités directement dans votre navigateur."
+  },
+  "image_solver_description": {
+    "message": "Extrayez du texte des images et obtenez des réponses instantanées."
+  },
+  "advanced_page_settings": {
+    "message": "Paramètres Avancés"
+  },
+  "popup_settings": {
+    "message": "Paramètres de la Fenêtre Popup"
+  },
+  "popup_settings_description": {
+    "message": "Configurez le comportement et l'affichage de la fenêtre popup."
+  },
+  "show_question": {
+    "message": "Afficher la Question"
+  },
+  "popup_position": {
+    "message": "Position de la Fenêtre Popup"
+  },
+  "show_captured_image": {
+    "message": "Afficher l'Image Capturée"
+  },
+  "extension_version": {
+    "message": "Version de l'Extension"
+  },
+  "browser_language": {
+    "message": "Langue du Navigateur"
+  },
+  "custom_style": {
+    "message": "Style Personnalisé"
+  },
+  "custom_style_description": {
+    "message": "Personnalisez l'apparence de la fenêtre popup, y compris le fond, la couleur du texte et l'opacité."
+  },
+  "request_types": {
+    "message": "Types de Demandes"
+  },
+  "request_types_description": {
+    "message": "Choisissez le type de demande que l'extension doit gérer, comme résoudre des problèmes, traduire ou analyser des questions."
+  },
+  "request_types_preview": {
+    "message": "Aperçu de la Barre de Demande"
+  },
+  "background": {
+    "message": "Fond"
+  },
+  "text_color": {
+    "message": "Couleur du texte"
+  },
+  "opacity": {
+    "message": "Opacité"
+  },
+  "border": {
+    "message": "Bordure"
+  },
+  "bottomLeft": {
+    "message": "Position en bas à gauche"
+  },
+  "bottomRight": {
+    "message": "Position en bas à droite"
+  },
+  "center": {
+    "message": "Position centrale"
+  },
+  "centerLeft": {
+    "message": "Position centrale gauche"
+  },
+  "centerRight": {
+    "message": "Position centrale droite"
+  },
+  "topLeft": {
+    "message": "Position en haut à gauche"
+  },
+  "topRight": {
+    "message": "Position en haut à droite"
+  },
+  "Disabled": {
+    "message": "Désactivé"
+  },
+  "solveProblem": {
+    "message": "Résoudre le problème"
+  },
+  "explainSolution": {
+    "message": "Expliquer la solution"
+  },
+  "mathOperations": {
+    "message": "Opérations mathématiques"
+  },
+  "geometryCalculations": {
+    "message": "Calculs géométriques"
+  },
+  "translateText": {
+    "message": "Traduire le texte"
+  },
+  "extractTextFromImage": {
+    "message": "Extraire du texte de l'image"
+  },
+  "rewriteText": {
+    "message": "Réécrire le texte"
+  },
+  "ErrorTextSelectedEmpty": {
+    "message": "La zone sélectionnée est vide. Veuillez réessayer."
+  },
+  "no_request_types_selected": {
+    "message": "Aucun type de demande sélectionné. Veuillez sélectionner au moins un type de demande."
+}
+}

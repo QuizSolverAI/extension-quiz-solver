@@ -1,0 +1,470 @@
+{
+  "extName": {
+    "message": "Quiz Solver AI"
+  },
+  "extDescription": {
+    "message": "حلّك الذكي المدعوم بالذكاء الاصطناعي للدراسة بشكل أكثر ذكاءً."
+  },
+  "extOpenDescription": {
+    "message": "تشغيل Quiz Solver"
+  },
+  "QuickSnapDescription": {
+    "message": "حلّل الأسئلة بسرعة باستخدام QuickSnap."
+  },
+  "SelectTextDescription": {
+    "message": "قم بتمييز النص للحصول على إجابات دقيقة."
+  },
+  "alert_zoom": {
+    "message": "اضبط مستوى التكبير على 100% لاستخدام QuickSnap."
+  },
+  "alert_something_wrong": {
+    "message": "حدث خطأ. حاول مرة أخرى."
+  },
+  "alert_screen_text_empty": {
+    "message": "المنطقة المحددة فارغة. حاول مرة أخرى."
+  },
+  "alert_no_answer": {
+    "message": "لا توجد إجابات متاحة لهذا السؤال."
+  },
+  "alert_no_question": {
+    "message": "لم يتم الكشف عن السؤال. يرجى المحاولة مرة أخرى."
+  },
+  "alert_no_text_selected": {
+    "message": "لم يتم تحديد أي نص. حدد النص للمتابعة."
+  },
+  "alert_no_text_selected_prompt": {
+    "message": "يرجى تحديد النص للحصول على الإجابة."
+  },
+  "alert_no_text_selected_prompt_screen": {
+    "message": "قم بسحب وتحديد منطقة لتحليلها."
+  },
+  "alert_no_text_selected_prompt_screen_zoom": {
+    "message": "اضبط مستوى التكبير على 100% لتحليل أفضل."
+  },
+  "message": {
+    "message": "رسالة"
+  },
+  "label_answer": {
+    "message": "الإجابة"
+  },
+  "loading": {
+    "message": "جاري المعالجة..."
+  },
+  "the_question_request": {
+    "message": "سؤالك / طلبك"
+  },
+  "copy_the_answer": {
+    "message": "انسخ هذه الإجابة إلى الحافظة."
+  },
+  "copy": {
+    "message": "نسخ"
+  },
+  "good_answer": {
+    "message": "إجابة صحيحة"
+  },
+  "wrong_answer": {
+    "message": "إجابة خاطئة"
+  },
+  "drag_me": {
+    "message": "اسحب لتحديد"
+  },
+  "like": {
+    "message": "إعجاب"
+  },
+  "dislike": {
+    "message": "عدم إعجاب"
+  },
+  "sorry_no_answer": {
+    "message": "عذرًا، لم يتم العثور على إجابات لهذا السؤال."
+  },
+  "sorry_no_question": {
+    "message": "لم يتم الكشف عن أي سؤال."
+  },
+  "error_login": {
+    "message": "لم يتم تسجيل الدخول. يرجى توصيل حسابك."
+  },
+  "error_cannot_read_image": {
+    "message": "تعذّر معالجة الصورة. حاول مرة أخرى."
+  },
+  "error_no_answer_found": {
+    "message": "لم يتم العثور على إجابة. يرجى المحاولة مرة أخرى."
+  },
+  "error_contact_admin": {
+    "message": "حدث خطأ. اتصل بالدعم."
+  },
+  "error_unknown_action": {
+    "message": "الإجراء المطلوب غير مدعوم."
+  },
+  "my_account": {
+    "message": "حسابي"
+  },
+  "upgrade": {
+    "message": "ترقية الخطة"
+  },
+  "documentation": {
+    "message": "المساعدة والوثائق"
+  },
+  "my_history": {
+    "message": "تاريخي"
+  },
+  "hey": {
+    "message": "مرحبًا"
+  },
+  "you_still_have": {
+    "message": "لديك"
+  },
+  "answers": {
+    "message": "إجابات متبقية"
+  },
+  "account_pending": {
+    "message": "الحساب قيد الموافقة"
+  },
+  "click_to_request_approval": {
+    "message": "طلب الموافقة هنا"
+  },
+  "you_are_using": {
+    "message": "خطتك الحالية هي"
+  },
+  "plan": {
+    "message": "الخطة"
+  },
+  "subscribe_for_more": {
+    "message": "اشترك للحصول على المزيد من الإجابات والميزات."
+  },
+  "activate_quizsolver": {
+    "message": "تفعيل QuizSolver"
+  },
+  "turn_on_the_extension": {
+    "message": "فعّل الامتداد لتحليل محتوى الصفحة."
+  },
+  "enable_quizsolver": {
+    "message": "تفعيل QuizSolver"
+  },
+  "settings": {
+    "message": "الإعدادات"
+  },
+  "auto_detect": {
+    "message": "الاكتشاف التلقائي"
+  },
+  "auto_detect_description": {
+    "message": "<strong>اكتشاف ذكي:</strong> يكتشف ويحلل أسئلة الاختبارات تلقائيًا."
+  },
+  "precision_highlight": {
+    "message": "تمييز دقيق"
+  },
+  "precision_highlight_description": {
+    "message": "<strong>وضع التمييز الدقيق:</strong> قم بتمييز النص للحصول على إجابات دقيقة فورًا."
+  },
+  "quick_snap_mode": {
+    "message": "وضع QuickSnap"
+  },
+  "quick_snap_description": {
+    "message": "<strong>ميزة QuickSnap:</strong> حدد الأسئلة وحلّلها بسهولة."
+  },
+  "quick_snap_language": {
+    "message": "لغة QuickSnap"
+  },
+  "quick_snap_language_description": {
+    "message": "اختر لغتك المفضلة لميزة QuickSnap."
+  },
+  "show_question_in_modal": {
+    "message": "عرض السؤال"
+  },
+  "show_question_in_modal_description": {
+    "message": "<strong>مراجعة السؤال في نافذة:</strong> يعرض السؤال الملتقط في نافذة مع الإجابة."
+  },
+  "login": {
+    "message": "تسجيل الدخول"
+  },
+  "register": {
+    "message": "التسجيل"
+  },
+  "logout": {
+    "message": "تسجيل الخروج"
+  },
+  "enable_quizsolver_description": {
+    "message": "<strong>تفعيل QuizSolver:</strong> ابدأ باستخدام الامتداد."
+  },
+  "master_your": {
+    "message": "أتقن"
+  },
+  "quizzes": {
+    "message": "الاختبارات"
+  },
+  "log_in": {
+    "message": "تسجيل الدخول"
+  },
+  "sign_up": {
+    "message": "إنشاء حساب"
+  },
+  "welcome_to": {
+    "message": "مرحبًا بك في"
+  },
+  "quiz_solver": {
+    "message": "QuizSolver"
+  },
+  "use_quiz_solver_for": {
+    "message": "استخدم QuizSolver لـ:"
+  },
+  "multiple_choice_help": {
+    "message": "اعثر بسهولة على الإجابات الصحيحة للأسئلة متعددة الخيارات."
+  },
+  "written_answer_help": {
+    "message": "حل الأسئلة التي تتطلب إجابات مكتوبة."
+  },
+  "text_explanation_help": {
+    "message": "وضّح وفهم النصوص المعقدة."
+  },
+  "less_effective_with": {
+    "message": "قيود QuizSolver:"
+  },
+  "long_problems": {
+    "message": "غير مناسب للمشكلات الطويلة التي تزيد عن 150 كلمة."
+  },
+  "image_based_questions": {
+    "message": "دعم محدود للأسئلة المستندة إلى الصور/الفيديو."
+  },
+  "discover_features": {
+    "message": "اكتشف الميزات"
+  },
+  "our_features": {
+    "message": "ميزاتنا"
+  },
+  "smart_highlight": {
+    "message": "تمييز ذكي"
+  },
+  "functional_across_websites": {
+    "message": "متوافق مع العديد من المواقع."
+  },
+  "highlight_click_solve": {
+    "message": "قم بتمييز النص، انقر بزر الفأرة الأيمن، واحصل على الإجابة فورًا."
+  },
+  "next": {
+    "message": "التالي"
+  },
+  "previous": {
+    "message": "السابق"
+  },
+  "quick_snap_tool": {
+    "message": "أداة QuickSnap"
+  },
+  "capture_receive_answers": {
+    "message": "حدد النص وحلله باستخدام QuickSnap."
+  },
+  "highly_effective_tool": {
+    "message": "مثالي للنصوص غير القابلة للتحديد."
+  },
+  "lets_solve_quizzes": {
+    "message": "لنقم بحل الاختبارات"
+  },
+  "historyTitle": {
+    "message": "سجل النشاط"
+  },
+  "historyDescription": {
+    "message": "عرض ما يصل إلى 30 من طلباتك السابقة."
+  },
+  "textColumn": {
+    "message": "النص"
+  },
+  "answerColumn": {
+    "message": "الإجابات"
+  },
+  "noHistory": {
+    "message": "لم يتم العثور على سجل."
+  },
+  "errorTryAgainLater": {
+    "message": "حدث خطأ. حاول مرة أخرى لاحقًا."
+  },
+  "loginToGetHistory": {
+    "message": "سجل الدخول لعرض السجل."
+  },
+  "readMore": {
+    "message": "اقرأ المزيد"
+  },
+  "readLess": {
+    "message": "عرض أقل"
+  },
+  "default_request_type": {
+    "message": "نوع الطلب الافتراضي"
+  },
+  "default_request_type_description": {
+    "message": "اختر نوع الطلب الافتراضي للامتداد."
+  },
+  "DISABLED": {
+    "message": "معطل"
+  },
+  "SOLVE_PROBLEM": {
+    "message": "حل المشكلة"
+  },
+  "EXPLAIN_SOLUTION": {
+    "message": "أجب مع شرح"
+  },
+  "MATH_OPERATIONS": {
+    "message": "حل العمليات الرياضية"
+  },
+  "GEOMETRIC_CALCULATIONS": {
+    "message": "حل المسائل الهندسية"
+  },
+  "TRANSLATE_TEXT": {
+    "message": "ترجمة النص"
+  },
+  "EXTRACT_TEXT_FROM_IMAGE": {
+    "message": "استخراج النص من الصورة"
+  },
+  "REWRITE_TEXT": {
+    "message": "إعادة كتابة النص"
+  },
+  "quick_snap": {
+    "message": "QuickSnap"
+  },
+  "error_extension_not_active": {
+    "message": "QuizSolver غير مفعل. قم بتفعيله من الإعدادات."
+  },
+  "error_quicksnap_not_enabled": {
+    "message": "وضع QuickSnap غير مفعل. قم بتفعيله من الإعدادات."
+  },
+  "error_smart_highlight_not_enabled": {
+    "message": "ميزة التمييز الذكي غير مفعلة. قم بتفعيلها من الإعدادات."
+  },
+  "error_no_text_selected": {
+    "message": "يرجى تحديد النص لاستخدام ميزة التمييز الذكي."
+  },
+  "error_try_again": {
+    "message": "حدث خطأ. يرجى المحاولة مرة أخرى."
+  },
+  "keyboard_shortcuts": {
+    "message": "اختصارات لوحة المفاتيح"
+  },
+  "full_settings": {
+    "message": "إعدادات كاملة"
+  },
+  "quick_snap_mode_description": {
+    "message": "وضع QuickSnap: حدد الأسئلة بسرعة وحللها للحصول على إجابات فورية."
+  },
+  "language": {
+    "message": "اللغة"
+  },
+  "ghost_mode": {
+    "message": "وضع الشبح"
+  },
+  "notifications": {
+    "message": "الإشعارات"
+  },
+  "image_solver": {
+    "message": "حل الصور"
+  },
+  "language_description": {
+    "message": "اختر لغتك المفضلة لـ QuizSolver."
+  },
+  "ghost_mode_description": {
+    "message": "وضع الشبح: اجعل الامتداد غير مرئي للاستخدام السري."
+  },
+  "notifications_description": {
+    "message": "تلقَ تحديثات وإشعارات الميزات مباشرة في متصفحك."
+  },
+  "image_solver_description": {
+    "message": "استخرج النصوص من الصور واحصل على إجابات فورية."
+  },
+  "advanced_page_settings": {
+    "message": "إعدادات متقدمة"
+  },
+  "popup_settings": {
+    "message": "إعدادات النافذة المنبثقة"
+  },
+  "popup_settings_description": {
+    "message": "قم بتكوين كيفية عرض النافذة المنبثقة وسلوكها."
+  },
+  "show_question": {
+    "message": "عرض السؤال"
+  },
+  "popup_position": {
+    "message": "موقع النافذة المنبثقة"
+  },
+  "show_captured_image": {
+    "message": "عرض الصورة الملتقطة"
+  },
+  "extension_version": {
+    "message": "إصدار الإضافة"
+  },
+  "browser_language": {
+    "message": "لغة المتصفح"
+  },
+  "custom_style": {
+    "message": "نمط مخصص"
+  },
+  "custom_style_description": {
+    "message": "قم بتخصيص مظهر النافذة المنبثقة بما في ذلك الخلفية ولون النص والشفافية."
+  },
+  "request_types": {
+    "message": "أنواع الطلبات"
+  },
+  "request_types_description": {
+    "message": "اختر نوع الطلب الذي يجب أن تتعامل معه الإضافة، مثل حل المشكلات أو الترجمة أو تحليل الأسئلة."
+  },
+  "request_types_preview": {
+    "message": "معاينة شريط الطلبات"
+  },
+  "background": {
+    "message": "الخلفية"
+  },
+  "text_color": {
+    "message": "لون النص"
+  },
+  "opacity": {
+    "message": "الشفافية"
+  },
+  "border": {
+    "message": "الحد"
+  },
+  "bottomLeft": {
+    "message": "الزاوية السفلية اليسرى"
+  },
+  "bottomRight": {
+    "message": "الزاوية السفلية اليمنى"
+  },
+  "center": {
+    "message": "المركز"
+  },
+  "centerLeft": {
+    "message": "المركز الأيسر"
+  },
+  "centerRight": {
+    "message": "المركز الأيمن"
+  },
+  "topLeft": {
+    "message": "الزاوية العلوية اليسرى"
+  },
+  "topRight": {
+    "message": "الزاوية العلوية اليمنى"
+  },
+  "Disabled": {
+    "message": "معطل"
+  },
+  "solveProblem": {
+    "message": "حل المشكلة"
+  },
+  "explainSolution": {
+    "message": "شرح الحل"
+  },
+  "mathOperations": {
+    "message": "العمليات الحسابية"
+  },
+  "geometryCalculations": {
+    "message": "الحسابات الهندسية"
+  },
+  "translateText": {
+    "message": "ترجمة النص"
+  },
+  "extractTextFromImage": {
+    "message": "استخراج النص من الصورة"
+  },
+  "rewriteText": {
+    "message": "إعادة كتابة النص"
+  },
+  "ErrorTextSelectedEmpty": {
+    "message": "النص المحدد فارغ. حاول مرة أخرى."
+  },
+  "no_request_types_selected": {
+    "message": "لم يتم تحديد نوع الطلب. يرجى تحديد نوع طلب واحد على الأقل."
+}
+}

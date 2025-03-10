@@ -1,0 +1,470 @@
+{
+  "extName": {
+    "message": "Quiz Solver AI"
+  },
+  "extDescription": {
+    "message": "आपकी पढ़ाई को स्मार्ट बनाने वाला AI समाधान।"
+  },
+  "extOpenDescription": {
+    "message": "क्विज सॉल्वर खोलें"
+  },
+  "QuickSnapDescription": {
+    "message": "क्विकस्नैप के साथ सवालों का तुरंत विश्लेषण करें।"
+  },
+  "SelectTextDescription": {
+    "message": "सटीक उत्तर पाने के लिए टेक्स्ट को हाइलाइट करें।"
+  },
+  "alert_zoom": {
+    "message": "क्विकस्नैप का उपयोग करने के लिए ज़ूम स्तर को 100% पर सेट करें।"
+  },
+  "alert_something_wrong": {
+    "message": "एक त्रुटि हुई। कृपया पुनः प्रयास करें।"
+  },
+  "alert_screen_text_empty": {
+    "message": "चयनित क्षेत्र खाली है। कृपया पुनः प्रयास करें।"
+  },
+  "alert_no_answer": {
+    "message": "इस प्रश्न के लिए कोई उत्तर उपलब्ध नहीं है।"
+  },
+  "alert_no_question": {
+    "message": "प्रश्न का पता नहीं चला। कृपया पुनः प्रयास करें।"
+  },
+  "alert_no_text_selected": {
+    "message": "कोई टेक्स्ट चयनित नहीं किया गया। कृपया जारी रखने के लिए टेक्स्ट हाइलाइट करें।"
+  },
+  "alert_no_text_selected_prompt": {
+    "message": "उत्तर प्राप्त करने के लिए टेक्स्ट का चयन करें।"
+  },
+  "alert_no_text_selected_prompt_screen": {
+    "message": "विश्लेषण के लिए क्षेत्र को खींचकर चुनें।"
+  },
+  "alert_no_text_selected_prompt_screen_zoom": {
+    "message": "बेहतर विश्लेषण के लिए ज़ूम को 100% पर समायोजित करें।"
+  },
+  "message": {
+    "message": "संदेश"
+  },
+  "label_answer": {
+    "message": "उत्तर"
+  },
+  "loading": {
+    "message": "प्रक्रिया हो रही है..."
+  },
+  "the_question_request": {
+    "message": "आपका प्रश्न / अनुरोध"
+  },
+  "copy_the_answer": {
+    "message": "इस उत्तर को क्लिपबोर्ड पर कॉपी करें।"
+  },
+  "copy": {
+    "message": "कॉपी करें"
+  },
+  "good_answer": {
+    "message": "सही उत्तर"
+  },
+  "wrong_answer": {
+    "message": "गलत उत्तर"
+  },
+  "drag_me": {
+    "message": "चुनने के लिए खींचें"
+  },
+  "like": {
+    "message": "पसंद करें"
+  },
+  "dislike": {
+    "message": "नापसंद करें"
+  },
+  "sorry_no_answer": {
+    "message": "क्षमा करें, इस प्रश्न के लिए कोई उत्तर नहीं मिला।"
+  },
+  "sorry_no_question": {
+    "message": "प्रश्न का पता नहीं चला।"
+  },
+  "error_login": {
+    "message": "लॉगिन नहीं किया गया। कृपया अपना खाता कनेक्ट करें।"
+  },
+  "error_cannot_read_image": {
+    "message": "छवि को संसाधित नहीं कर सके। पुनः प्रयास करें।"
+  },
+  "error_no_answer_found": {
+    "message": "कोई उत्तर नहीं मिला। कृपया पुनः प्रयास करें।"
+  },
+  "error_contact_admin": {
+    "message": "एक त्रुटि हुई। सहायता के लिए संपर्क करें।"
+  },
+  "error_unknown_action": {
+    "message": "अनजान क्रिया का अनुरोध किया गया।"
+  },
+  "my_account": {
+    "message": "मेरा खाता"
+  },
+  "upgrade": {
+    "message": "प्लान अपग्रेड करें"
+  },
+  "documentation": {
+    "message": "मदद और दस्तावेज़"
+  },
+  "my_history": {
+    "message": "मेरा इतिहास"
+  },
+  "hey": {
+    "message": "नमस्ते"
+  },
+  "you_still_have": {
+    "message": "आपके पास अभी भी"
+  },
+  "answers": {
+    "message": "उत्तर शेष हैं"
+  },
+  "account_pending": {
+    "message": "खाता स्वीकृति लंबित है"
+  },
+  "click_to_request_approval": {
+    "message": "यहाँ स्वीकृति का अनुरोध करें"
+  },
+  "you_are_using": {
+    "message": "आपकी वर्तमान योजना है"
+  },
+  "plan": {
+    "message": "योजना"
+  },
+  "subscribe_for_more": {
+    "message": "अधिक उत्तर और सुविधाएँ अनलॉक करने के लिए सब्सक्राइब करें।"
+  },
+  "activate_quizsolver": {
+    "message": "क्विजसॉल्वर सक्रिय करें"
+  },
+  "turn_on_the_extension": {
+    "message": "पृष्ठ सामग्री का विश्लेषण करने के लिए एक्सटेंशन सक्रिय करें।"
+  },
+  "enable_quizsolver": {
+    "message": "क्विजसॉल्वर सक्रिय करें"
+  },
+  "settings": {
+    "message": "सेटिंग्स"
+  },
+  "auto_detect": {
+    "message": "स्वचालित पहचान"
+  },
+  "auto_detect_description": {
+    "message": "<strong>बुद्धिमान स्वचालित पहचान:</strong> स्वचालित रूप से क्विज़ प्रश्नों का पता लगाएं और उनका विश्लेषण करें।"
+  },
+  "precision_highlight": {
+    "message": "सटीक हाइलाइट"
+  },
+  "precision_highlight_description": {
+    "message": "<strong>सटीक हाइलाइट मोड:</strong> तुरंत सटीक उत्तर पाने के लिए टेक्स्ट को हाइलाइट करें।"
+  },
+  "quick_snap_mode": {
+    "message": "क्विकस्नैप मोड"
+  },
+  "quick_snap_description": {
+    "message": "<strong>क्विकस्नैप फीचर:</strong> क्विज़ प्रश्नों का आसानी से घेराव करें और उनका विश्लेषण करें।"
+  },
+  "quick_snap_language": {
+    "message": "क्विकस्नैप भाषा"
+  },
+  "quick_snap_language_description": {
+    "message": "क्विकस्नैप के लिए अपनी पसंदीदा भाषा चुनें।"
+  },
+  "show_question_in_modal": {
+    "message": "प्रश्न प्रदर्शित करें"
+  },
+  "show_question_in_modal_description": {
+    "message": "<strong>मॉडल में प्रश्न की समीक्षा करें:</strong> क्विजसॉल्वर के उत्तर के ऊपर कैप्चर किए गए प्रश्न को आसानी से क्रॉस-रेफरेंसिंग के लिए प्रदर्शित करें।"
+  },
+  "login": {
+    "message": "लॉग इन करें"
+  },
+  "register": {
+    "message": "साइन अप करें"
+  },
+  "logout": {
+    "message": "लॉग आउट करें"
+  },
+  "enable_quizsolver_description": {
+    "message": "<strong>क्विजसॉल्वर सक्षम करें:</strong> एक्सटेंशन का उपयोग शुरू करने के लिए क्विजसॉल्वर चालू करें।"
+  },
+  "master_your": {
+    "message": "अपने"
+  },
+  "quizzes": {
+    "message": "क्विज़ को मास्टर करें"
+  },
+  "log_in": {
+    "message": "लॉग इन करें"
+  },
+  "sign_up": {
+    "message": "साइन अप करें"
+  },
+  "welcome_to": {
+    "message": "स्वागत है"
+  },
+  "quiz_solver": {
+    "message": "क्विजसॉल्वर में"
+  },
+  "use_quiz_solver_for": {
+    "message": "आप क्विजसॉल्वर का उपयोग कर सकते हैं:"
+  },
+  "multiple_choice_help": {
+    "message": "मल्टीपल-चॉइस क्विज़ के लिए सही उत्तर आसानी से ढूंढें।"
+  },
+  "written_answer_help": {
+    "message": "लिखित उत्तर वाले प्रश्नों को हल करें।"
+  },
+  "text_explanation_help": {
+    "message": "जटिल टेक्स्ट अनुभागों को स्पष्ट करें और समझें।"
+  },
+  "less_effective_with": {
+    "message": "क्विजसॉल्वर की सीमाएँ:"
+  },
+  "long_problems": {
+    "message": "150 शब्दों से अधिक लंबे प्रश्नों के लिए उपयुक्त नहीं।"
+  },
+  "image_based_questions": {
+    "message": "छवि/वीडियो आधारित प्रश्नों के लिए सीमित समर्थन।"
+  },
+  "discover_features": {
+    "message": "विशेषताएँ खोजें"
+  },
+  "our_features": {
+    "message": "हमारी विशेषताएँ"
+  },
+  "smart_highlight": {
+    "message": "सटीकता के साथ हाइलाइट करें"
+  },
+  "functional_across_websites": {
+    "message": "विभिन्न वेबसाइटों पर संगत।"
+  },
+  "highlight_click_solve": {
+    "message": "हाइलाइट करें, राइट-क्लिक करें और तुरंत हल करें।"
+  },
+  "next": {
+    "message": "अगला"
+  },
+  "previous": {
+    "message": "पिछला"
+  },
+  "quick_snap_tool": {
+    "message": "क्विकस्नैप टूल"
+  },
+  "capture_receive_answers": {
+    "message": "क्विकस्नैप के साथ चयन करें और उत्तर प्राप्त करें।"
+  },
+  "highly_effective_tool": {
+    "message": "गैर-चयन योग्य टेक्स्ट वाले क्षेत्रों के लिए आदर्श।"
+  },
+  "lets_solve_quizzes": {
+    "message": "चलो क्विज़ हल करें"
+  },
+  "historyTitle": {
+    "message": "गतिविधि इतिहास"
+  },
+  "historyDescription": {
+    "message": "अपनी पिछली 30 अनुरोधों को देखें।"
+  },
+  "textColumn": {
+    "message": "टेक्स्ट"
+  },
+  "answerColumn": {
+    "message": "उत्तर"
+  },
+  "noHistory": {
+    "message": "कोई इतिहास नहीं मिला।"
+  },
+  "errorTryAgainLater": {
+    "message": "एक त्रुटि हुई। बाद में पुनः प्रयास करें।"
+  },
+  "loginToGetHistory": {
+    "message": "अपना इतिहास देखने के लिए लॉग इन करें।"
+  },
+  "readMore": {
+    "message": "अधिक पढ़ें"
+  },
+  "readLess": {
+    "message": "कम दिखाएं"
+  },
+  "default_request_type": {
+    "message": "डिफ़ॉल्ट अनुरोध प्रकार"
+  },
+  "default_request_type_description": {
+    "message": "एक्सटेंशन के लिए डिफ़ॉल्ट अनुरोध प्रकार चुनें।"
+  },
+  "DISABLED": {
+    "message": "अक्षम"
+  },
+  "SOLVE_PROBLEM": {
+    "message": "समस्या हल करें"
+  },
+  "EXPLAIN_SOLUTION": {
+    "message": "स्पष्टीकरण के साथ उत्तर"
+  },
+  "MATH_OPERATIONS": {
+    "message": "गणित क्विज़ हल करें"
+  },
+  "GEOMETRIC_CALCULATIONS": {
+    "message": "ज्यामिति प्रश्न हल करें"
+  },
+  "TRANSLATE_TEXT": {
+    "message": "पाठ का अनुवाद करें"
+  },
+  "EXTRACT_TEXT_FROM_IMAGE": {
+    "message": "छवि से पाठ निकालें"
+  },
+  "REWRITE_TEXT": {
+    "message": "पाठ को पुनः लिखें"
+  },
+  "quick_snap": {
+    "message": "क्विकस्नैप"
+  },
+  "error_extension_not_active": {
+    "message": "क्विजसॉल्वर सक्रिय नहीं है। इसे सेटिंग्स में सक्षम करें।"
+  },
+  "error_quicksnap_not_enabled": {
+    "message": "क्विकस्नैप मोड सक्षम नहीं है। इसे सेटिंग्स में चालू करें।"
+  },
+  "error_smart_highlight_not_enabled": {
+    "message": "स्मार्ट हाइलाइट सक्षम नहीं है। इसे सेटिंग्स में चालू करें।"
+  },
+  "error_no_text_selected": {
+    "message": "स्मार्ट हाइलाइट फीचर का उपयोग करने के लिए कृपया टेक्स्ट चुनें।"
+  },
+  "error_try_again": {
+    "message": "एक त्रुटि हुई। कृपया पुनः प्रयास करें।"
+  },
+  "keyboard_shortcuts": {
+    "message": "कीबोर्ड शॉर्टकट"
+  },
+  "full_settings": {
+    "message": "पूर्ण सेटिंग्स"
+  },
+  "quick_snap_mode_description": {
+    "message": "क्विकस्नैप मोड: क्विज़ प्रश्न और उत्तर को घेरकर जल्दी विश्लेषण करें।"
+  },
+  "language": {
+    "message": "भाषा"
+  },
+  "ghost_mode": {
+    "message": "घोस्ट मोड"
+  },
+  "notifications": {
+    "message": "सूचनाएँ"
+  },
+  "image_solver": {
+    "message": "छवि सॉल्वर"
+  },
+  "language_description": {
+    "message": "क्विजसॉल्वर के लिए अपनी पसंदीदा भाषा चुनें।"
+  },
+  "ghost_mode_description": {
+    "message": "घोस्ट मोड: डिस्क्रीट उपयोग के लिए एक्सटेंशन को अदृश्य बनाएं।"
+  },
+  "notifications_description": {
+    "message": "अपडेट और फीचर सूचनाएँ सीधे अपने ब्राउज़र में प्राप्त करें।"
+  },
+  "image_solver_description": {
+    "message": "छवियों से टेक्स्ट निकालें और तुरंत उत्तर प्राप्त करें।"
+  },
+  "advanced_page_settings": {
+    "message": "उन्नत सेटिंग्स"
+  },
+  "popup_settings": {
+    "message": "पॉपअप सेटिंग्स"
+  },
+  "popup_settings_description": {
+    "message": "पॉपअप के व्यवहार और प्रदर्शन को कॉन्फ़िगर करें।"
+  },
+  "show_question": {
+    "message": "सवाल दिखाएं"
+  },
+  "popup_position": {
+    "message": "पॉपअप स्थिति"
+  },
+  "show_captured_image": {
+    "message": "कैप्चर की गई छवि दिखाएं"
+  },
+  "extension_version": {
+    "message": "एक्सटेंशन संस्करण"
+  },
+  "browser_language": {
+    "message": "ब्राउज़र भाषा"
+  },
+  "custom_style": {
+    "message": "कस्टम शैली"
+  },
+  "custom_style_description": {
+    "message": "पॉपअप की उपस्थिति को अनुकूलित करें, जैसे पृष्ठभूमि, टेक्स्ट रंग और अपारदर्शिता।"
+  },
+  "request_types": {
+    "message": "अनुरोध प्रकार"
+  },
+  "request_types_description": {
+    "message": "विस्तार के लिए अनुरोध का प्रकार चुनें, जैसे समस्याओं को हल करना, अनुवाद करना या प्रश्नों का विश्लेषण करना।"
+  },
+  "request_types_preview": {
+    "message": "अनुरोध बार पूर्वावलोकन"
+  },
+  "background": {
+    "message": "पृष्ठभूमि"
+  },
+  "text_color": {
+    "message": "पाठ का रंग"
+  },
+  "opacity": {
+    "message": "पारदर्शिता"
+  },
+  "border": {
+    "message": "सीमा"
+  },
+  "bottomLeft": {
+    "message": "नीचे बाईं स्थिति"
+  },
+  "bottomRight": {
+    "message": "नीचे दाईं स्थिति"
+  },
+  "center": {
+    "message": "मध्य स्थिति"
+  },
+  "centerLeft": {
+    "message": "मध्य बाईं स्थिति"
+  },
+  "centerRight": {
+    "message": "मध्य दाईं स्थिति"
+  },
+  "topLeft": {
+    "message": "ऊपरी बाईं स्थिति"
+  },
+  "topRight": {
+    "message": "ऊपरी दाईं स्थिति"
+  },
+  "Disabled": {
+    "message": "अक्षम"
+  },
+  "solveProblem": {
+    "message": "समस्या का समाधान करें"
+  },
+  "explainSolution": {
+    "message": "समाधान समझाएं"
+  },
+  "mathOperations": {
+    "message": "गणितीय क्रियाएँ"
+  },
+  "geometryCalculations": {
+    "message": "ज्यामितीय गणना"
+  },
+  "translateText": {
+    "message": "पाठ का अनुवाद करें"
+  },
+  "extractTextFromImage": {
+    "message": "छवि से पाठ निकालें"
+  },
+  "rewriteText": {
+    "message": "पाठ को पुनः लिखें"
+  },
+  "ErrorTextSelectedEmpty": {
+    "message": "चयनित क्षेत्र खाली है। कृपया पुनः प्रयास करें।"
+  },
+  "no_request_types_selected": {
+    "message": "कोई अनुरोध प्रकार चयनित नहीं है। कृपया कम से कम एक अनुरोध प्रकार चुनें।"
+}
+}

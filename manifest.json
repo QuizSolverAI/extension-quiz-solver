@@ -1,55 +1,85 @@
 {
-   "action": {
-      "default_icon": {
-         "16": "assets/logo.png"
-      },
-      "default_popup": "index.html",
-      "default_title": "Quiz Solver AI"
-   },
-   "author": "quizsolverai.com",
-   "background": {
-      "service_worker": "service-worker.js"
-   },
-   "commands": {
-      "_execute_action": {
-         "description": "Open Quiz Solver",
-         "suggested_key": {
-            "chromeos": "Ctrl+Shift+E",
-            "linux": "Ctrl+Shift+E",
-            "mac": "MacCtrl+Shift+E",
-            "windows": "Ctrl+Shift+E"
-         }
-      },
-      "run_quickSnapshot": {
-         "description": "Run Quick Snapshot",
-         "suggested_key": {
-            "default": "Ctrl+Shift+Q",
-            "mac": "MacCtrl+Shift+Q"
-         }
-      }
-   },
-   "content_scripts": [ {
-      "js": [ "contentscript.js" ],
-      "matches": [ "\u003Call_urls>" ],
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "version": "1.8",
+  "author": "quizsolverai.com",
+  "description": "__MSG_extDescription__",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "contextMenus",
+    "tabs",
+    "alarms",
+    "notifications"
+  ],
+  "icons": {
+    "16": "assets/16.png",
+    "32": "assets/32.png",
+    "48": "assets/48.png",
+    "128": "assets/128.png"
+  },
+  "host_permissions": [
+    "https://quizsolverai.com/*",
+    "https://www.quizsolverai.com/*"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "__MSG_extName__",
+    "default_icon": {
+      "16": "assets/logo.png"
+    }
+  },
+  "default_locale": "en",
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "assets/*"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "content_scripts": [
+    {
+      "js": [
+        "math.js",
+        "contentscript.js"
+      ],
+      "css": [
+        "content.css"
+      ],
+      "matches": [
+        "<all_urls>"
+      ],
       "run_at": "document_end"
-   } ],
-   "description": "Quiz Solver is Your AI-Powered Study Companion.",
-   "differential_fingerprint": "1.729cd09fd9831a9310a15081edc9301fbbc49f59a8771a49006cb3ae2bb73318",
-   "host_permissions": [ "https://quizsolverai.com/*", "https://www.quizsolverai.com/*" ],
-   "icons": {
-      "128": "assets/128.png",
-      "16": "assets/16.png",
-      "32": "assets/32.png",
-      "48": "assets/48.png"
-   },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqlH4+wElR0RXSkHKG4WsFagd/nB74XGZVtcNsXa+Zt18F6BlPaG5OKV97k30BXQrY6nGW4xnZvKykAsaCAyJIBWJX35blLns9G2UD2FPSE1uSwNg+g28kHdVfiF8gT9TNPu3x7RBoYl79Go8y1PupXfByeNCfYISRzcD1vDnMTC629a6cXw4hMvk98mga3EdIMKwt+CmfJZ+rJ7gexh4hUhgR8DgMFCuE2IyIRCej7NeAKKN/2lt7TsICUC32Zujn1HtIy6PK6mvU3Fp/orz0Qwv+j8Y9qwRYwgdf2aGmi8kBwb7ZJLpQhG9GAidj3KmCp4sKaBHw2KOWp2hSNjK/wIDAQAB",
-   "manifest_version": 3,
-   "name": "Quiz Solver",
-   "permissions": [ "storage", "activeTab", "contextMenus", "tabs" ],
-   "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.7",
-   "web_accessible_resources": [ {
-      "matches": [ "\u003Call_urls>" ],
-      "resources": [ "assets/*" ]
-   } ]
+    }
+  ],
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+E",
+        "windows": "Ctrl+Shift+E",
+        "mac": "MacCtrl+Shift+E"
+      },
+      "description": "__MSG_extOpenDescription__"
+    },
+    "run_quickSnapshot": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Q",
+        "mac": "MacCtrl+Shift+Q"
+      },
+      "description": "__MSG_QuickSnapDescription__"
+    },
+    "run_SelectText":{
+      "suggested_key": {
+        "default": "Ctrl+Shift+S",
+        "mac": "MacCtrl+Shift+S"
+      },
+      "description": "__MSG_SelectTextDescription__"
+    }
+  }
 }
