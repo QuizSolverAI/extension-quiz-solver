@@ -58,6 +58,7 @@ div#qs24-hack-answer-drop {
 #qs24-box-answer #qs24-hack-logo-img {
     width: 120px;
     margin: 5px 0 0;
+    display: inline-block !important;
 }
 
 /* content */
@@ -225,7 +226,9 @@ span#qs24-answer-like-span {
     border: 1px solid rgb(36, 79, 96);
     color: rgb(179, 171, 171) !important;
 }
-
+#qs24-box-answer.qs25-ghost-mode #sq24-box-loading{
+    opacity: 0.4;
+}
 
 #qs24-hack-rect {
     position: fixed;
