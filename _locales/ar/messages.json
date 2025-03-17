@@ -48,7 +48,7 @@
     "message": "الإجابة"
   },
   "loading": {
-    "message": "جاري المعالجة..."
+    "message": "تحميل"
   },
   "the_question_request": {
     "message": "سؤالك / طلبك"
@@ -284,6 +284,12 @@
   "readLess": {
     "message": "عرض أقل"
   },
+  "default_request": {
+    "message": "الطلب الافتراضي"
+  },
+  "default_request_description": {
+    "message": "اختر نوع الطلب الافتراضي للامتداد."
+  },
   "default_request_type": {
     "message": "نوع الطلب الافتراضي"
   },
@@ -466,5 +472,36 @@
   },
   "no_request_types_selected": {
     "message": "لم يتم تحديد نوع الطلب. يرجى تحديد نوع طلب واحد على الأقل."
-}
-}
+  },
+    "close": {
+      "message": "إغلاق"
+    },
+    "our": {
+      "message": "خاصتنا"
+    },
+    "features": {
+      "message": "ميزات"
+    },
+    "smart": {
+      "message": "ذكي"
+    },
+    "highlight": {
+      "message": "تمييز"
+    },
+    "quicksnap": {
+      "message": "QuickSnap"
+    },
+    "tool": {
+      "message": "أداة"
+    },
+    "capture_instant_answers": {
+      "message": "التقط وتلقَّ إجابات فورية."
+    },
+    "effective_for_nonselectable": {
+      "message": "فعّال للغاية ومثالي للنصوص غير القابلة للتحديد."
+    },
+    "notice_if_disbaled_default_request": {
+      "message": "إذا تم تعطيله، فلن تتمكن من استخدام شريط الطلب الافتراضي، وسيقوم محلل الاختبار باكتشاف السؤال تلقائيًا."
+    }
+  }
+  

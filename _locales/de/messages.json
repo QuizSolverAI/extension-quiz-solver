@@ -284,6 +284,12 @@
   "readLess": {
     "message": "Weniger anzeigen"
   },
+  "default_request": {
+    "message": "Standardanfrage"
+  },
+  "default_request_description": {
+    "message": "Wählen Sie den Standardanfragetyp für die Erweiterung."
+  },
   "default_request_type": {
     "message": "Standardanforderungstyp"
   },
@@ -463,5 +469,35 @@
   },
   "no_request_types_selected": {
     "message": "Kein Anfragetyp ausgewählt. Bitte wählen Sie mindestens einen Anfragetyp aus."
-}
+  },
+  "close": {
+    "message": "Schließen"
+  },
+  "our": {
+    "message": "Unsere"
+  },
+  "features": {
+    "message": "Funktionen"
+  },
+  "smart": {
+    "message": "Intelligent"
+  },
+  "highlight": {
+    "message": "Markieren"
+  },
+  "quicksnap": {
+    "message": "QuickSnap"
+  },
+  "tool": {
+    "message": "Werkzeug"
+  },
+  "capture_instant_answers": {
+    "message": "Erfassen und sofortige Antworten erhalten."
+  },
+  "effective_for_nonselectable": {
+    "message": "Hocheffektiv & ideal für nicht auswählbaren Text."
+  },
+  "notice_if_disbaled_default_request": {
+    "message": "Wenn deaktiviert, können Sie die Standard-Anforderungsleiste nicht verwenden und Quiz Solver erkennt die Frage automatisch."
+  }
 }

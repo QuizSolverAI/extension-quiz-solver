@@ -284,6 +284,12 @@
   "readLess": {
     "message": "Mostra meno"
   },
+  "default_request": {
+    "message": "Richiesta Predefinita"
+  },
+  "default_request_description": {
+    "message": "Scegli il tipo di richiesta predefinito per l'estensione."
+  },
   "default_request_type": {
     "message": "Tipo di Richiesta Predefinito"
   },
@@ -466,5 +472,35 @@
   }, 
   "no_request_types_selected": {
     "message": "Nessun tipo di richiesta selezionato. Seleziona almeno un tipo di richiesta."
-}
+  },
+  "close": {
+    "message": "Chiudi"
+  },
+  "our": {
+    "message": "Nostro"
+  },
+  "features": {
+    "message": "Funzionalità"
+  },
+  "smart": {
+    "message": "Intelligente"
+  },
+  "highlight": {
+    "message": "Evidenzia"
+  },
+  "quicksnap": {
+    "message": "QuickSnap"
+  },
+  "tool": {
+    "message": "Strumento"
+  },
+  "capture_instant_answers": {
+    "message": "Acquisisci e ricevi risposte istantanee."
+  },
+  "effective_for_nonselectable": {
+    "message": "Altamente efficace e ideale per il testo non selezionabile."
+  },
+  "notice_if_disbaled_default_request": {
+    "message": "Se disabilitato, non potrai utilizzare la barra di richiesta predefinita e Quiz Solver rileverà automaticamente la domanda."
+  }
 }

@@ -284,9 +284,16 @@
   "readLess": {
     "message": "Скрыть"
   },
+  "default_request": {
+    "message": "Запрос по умолчанию"
+  },
+  "default_request_description": {
+    "message": "Выберите тип запроса по умолчанию для расширения."
+  },
   "default_request_type": {
     "message": "Тип запроса по умолчанию"
   },
+  
   "default_request_type_description": {
     "message": "Выберите тип запроса по умолчанию для расширения."
   },
@@ -466,5 +473,35 @@
   },
 "no_request_types_selected": {
     "message": "Тип запроса не выбран. Пожалуйста, выберите хотя бы один тип запроса."
-}
+  },
+  "close": {
+    "message": "Закрыть"
+  },
+  "our": {
+    "message": "Наш"
+  },
+  "features": {
+    "message": "Функции"
+  },
+  "smart": {
+    "message": "Умный"
+  },
+  "highlight": {
+    "message": "Выделить"
+  },
+  "quicksnap": {
+    "message": "QuickSnap"
+  },
+  "tool": {
+    "message": "Инструмент"
+  },
+  "capture_instant_answers": {
+    "message": "Захватывайте и получайте мгновенные ответы."
+  },
+  "effective_for_nonselectable": {
+    "message": "Высокоэффективно и идеально для невыделяемого текста."
+  },
+  "notice_if_disbaled_default_request": {
+    "message": "Если отключено, вы не сможете использовать панель запросов по умолчанию, и Quiz Solver будет автоматически распознавать вопрос."
+  }
 }

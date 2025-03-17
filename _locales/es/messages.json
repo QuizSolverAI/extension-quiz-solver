@@ -284,6 +284,12 @@
   "readLess": {
     "message": "Leer Menos"
   },
+  "default_request": {
+    "message": "Solicitud Predeterminada"
+  },
+  "default_request_description": {
+    "message": "Elige el tipo de solicitud predeterminado para la extensión."
+  },
   "default_request_type": {
     "message": "Tipo de Solicitud Predeterminado"
   },
@@ -466,5 +472,35 @@
   },
   "no_request_types_selected": {
     "message": "Ningún tipo de solicitud seleccionado. Por favor, seleccione al menos un tipo de solicitud."
-}
+  },
+  "close": {
+    "message": "Cerrar"
+  },
+  "our": {
+    "message": "Nuestro"
+  },
+  "features": {
+    "message": "Características"
+  },
+  "smart": {
+    "message": "Inteligente"
+  },
+  "highlight": {
+    "message": "Resaltar"
+  },
+  "quicksnap": {
+    "message": "QuickSnap"
+  },
+  "tool": {
+    "message": "Herramienta"
+  },
+  "capture_instant_answers": {
+    "message": "Captura y recibe respuestas instantáneas."
+  },
+  "effective_for_nonselectable": {
+    "message": "Altamente efectivo e ideal para texto no seleccionable."
+  },
+  "notice_if_disbaled_default_request": {
+    "message": "Si se desactiva, no podrás usar la barra de solicitud predeterminada y Quiz Solver detectará la pregunta automáticamente."
+  }
 }

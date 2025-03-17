@@ -284,6 +284,12 @@
   "readLess": {
     "message": "Mostrar Menos"
   },
+  "default_request": {
+    "message":  "Solicitação Padrão"
+  },
+  "default_request_description": {
+    "message": "Escolha o tipo de solicitação padrão para a extensão."
+  },
   "default_request_type": {
     "message": "Tipo de Solicitação Padrão"
   },
@@ -466,5 +472,36 @@
   },
 "no_request_types_selected": {
     "message": "Nenhum tipo de solicitação selecionado. Por favor, selecione pelo menos um tipo de solicitação."
+  },
+  "close": {
+    "message": "Fechar"
+  },
+  "our": {
+    "message": "Nosso"
+  },
+  "features": {
+    "message": "Recursos"
+  },
+  "smart": {
+    "message": "Inteligente"
+  },
+  "highlight": {
+    "message": "Destaque"
+  },
+  "quicksnap": {
+    "message": "QuickSnap"
+  },
+  "tool": {
+    "message": "Ferramenta"
+  },
+  "capture_instant_answers": {
+    "message": "Capture e receba respostas instantâneas."
+  },
+  "effective_for_nonselectable": {
+    "message": "Altamente eficaz e ideal para texto não selecionável."
+  },
+  "notice_if_disbaled_default_request": {
+    "message": "Se desativado, você não poderá usar a barra de solicitação padrão e o Quiz Solver detectará a pergunta automaticamente."
+  }
 }
-}
+

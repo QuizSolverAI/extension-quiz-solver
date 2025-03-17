@@ -284,6 +284,12 @@
   "readLess": {
     "message": "कम दिखाएं"
   },
+  "default_request": {
+    "message": "डिफ़ॉल्ट अनुरोध"
+  },
+  "default_request_description": {
+    "message": "एक्सटेंशन के लिए डिफ़ॉल्ट अनुरोध चुनें।"
+  },
   "default_request_type": {
     "message": "डिफ़ॉल्ट अनुरोध प्रकार"
   },
@@ -466,5 +472,35 @@
   },
   "no_request_types_selected": {
     "message": "कोई अनुरोध प्रकार चयनित नहीं है। कृपया कम से कम एक अनुरोध प्रकार चुनें।"
-}
+  },
+  "close": {
+    "message": "बंद करें"
+  },
+  "our": {
+    "message": "हमारा"
+  },
+  "features": {
+    "message": "विशेषताएँ"
+  },
+  "smart": {
+    "message": "स्मार्ट"
+  },
+  "highlight": {
+    "message": "हाइलाइट"
+  },
+  "quicksnap": {
+    "message": "QuickSnap"
+  },
+  "tool": {
+    "message": "उपकरण"
+  },
+  "capture_instant_answers": {
+    "message": "पकड़ें और त्वरित उत्तर प्राप्त करें।"
+  },
+  "effective_for_nonselectable": {
+    "message": "बेहद प्रभावी और गैर-चयन योग्य पाठ के लिए आदर्श।"
+  },
+  "notice_if_disbaled_default_request": {
+    "message": "यदि इसे निष्क्रिय किया जाता है, तो आप डिफ़ॉल्ट अनुरोध बार का उपयोग नहीं कर पाएंगे और क्विज़ सॉल्वर प्रश्न को स्वचालित रूप से पहचानेगा।"
+  }
 }

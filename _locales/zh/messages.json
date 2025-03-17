@@ -284,8 +284,14 @@
   "readLess": {
     "message": "收起"
   },
+  "default_request": {
+    "message": "默认请求栏"
+  },
   "default_request_type": {
     "message": "默认请求类型"
+  },
+  "default_request_description": {
+    "message": "选择扩展程序的默认请求类型。"
   },
   "default_request_type_description": {
     "message": "选择扩展程序的默认请求类型。"
@@ -466,5 +472,35 @@
   },
 "no_request_types_selected": {
     "message": "未选择请求类型。请至少选择一种请求类型。"
-}
+  },
+  "close": {
+    "message": "关闭"
+  },
+  "our": {
+    "message": "我们的"
+  },
+  "features": {
+    "message": "功能"
+  },
+  "smart": {
+    "message": "智能"
+  },
+  "highlight": {
+    "message": "高亮"
+  },
+  "quicksnap": {
+    "message": "QuickSnap"
+  },
+  "tool": {
+    "message": "工具"
+  },
+  "capture_instant_answers": {
+    "message": "捕捉并立即获得答案。"
+  },
+  "effective_for_nonselectable": {
+    "message": "高效且非常适用于无法选中的文本。"
+  },
+  "notice_if_disbaled_default_request": {
+    "message": "如果禁用，您将无法使用默认请求栏，Quiz Solver将自动检测问题。"
+  }
 }

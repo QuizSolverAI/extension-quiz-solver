@@ -284,6 +284,12 @@
   "readLess": {
     "message": "Tampilkan Lebih Sedikit"
   },
+  "default_request": {
+    "message": "Permintaan Default"
+  },
+  "default_request_description": {
+    "message": "Pilih jenis permintaan default untuk ekstensi."
+  },
   "default_request_type": {
     "message": "Jenis Permintaan Default"
   },
@@ -466,5 +472,35 @@
   }, 
   "no_request_types_selected": {
     "message": "Tidak ada jenis permintaan yang dipilih. Silakan pilih setidaknya satu jenis permintaan."
-}
+  },
+  "close": {
+    "message": "Tutup"
+  },
+  "our": {
+    "message": "Kami"
+  },
+  "features": {
+    "message": "Fitur"
+  },
+  "smart": {
+    "message": "Cerdas"
+  },
+  "highlight": {
+    "message": "Sorot"
+  },
+  "quicksnap": {
+    "message": "QuickSnap"
+  },
+  "tool": {
+    "message": "Alat"
+  },
+  "capture_instant_answers": {
+    "message": "Tangkap dan dapatkan jawaban instan."
+  },
+  "effective_for_nonselectable": {
+    "message": "Sangat efektif & ideal untuk teks yang tidak dapat disorot."
+  },
+  "notice_if_disbaled_default_request": {
+    "message": "Jika dinonaktifkan, Anda tidak dapat menggunakan bilah permintaan default dan Quiz Solver akan mendeteksi pertanyaan secara otomatis."
+  }
 }

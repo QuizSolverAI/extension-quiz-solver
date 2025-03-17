@@ -1,7 +1,10 @@
 div#sq24-box-content {
     text-align: left;
 }
-
+/* rtl   */
+[dir="rtl"] #sq24-box-content {
+    text-align: right;
+}
 
 #qs24-box-answer {
     background-color: rgba(237, 240, 244, 0.65);
